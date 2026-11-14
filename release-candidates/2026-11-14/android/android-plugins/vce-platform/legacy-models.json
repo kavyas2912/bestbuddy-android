@@ -1,0 +1,26 @@
+[
+  {
+    "id": "litert-community/Gemma3-1B-IT#legacy-0.7.1",
+    "filename": "Gemma3-1B-IT_multi-prefill-seq_q4_ekv4096.litertlm",
+    "bytes": 584417280,
+    "sha256": "1325ae366d31950f137c9c357b9fa89448b176d76998180c08ceaca78bba98be",
+    "downloadUrl": "https://huggingface.co/litert-community/Gemma3-1B-IT/resolve/d448835d84411a08f577e25f3afebe528402d73b/Gemma3-1B-IT_multi-prefill-seq_q4_ekv4096.litertlm",
+    "license": "gemma",
+    "modelCard": "https://huggingface.co/litert-community/Gemma3-1B-IT",
+    "licenseUrl": "https://ai.google.dev/gemma/terms",
+    "remoteTop": false,
+    "name": "Gemma3-1B-IT_multi-prefill-seq_q4_ekv4096.litertlm (retained model)"
+  },
+  {
+    "id": "litert-community/Qwen3-0.6B#legacy-0.7.1",
+    "filename": "Qwen3-0.6B_dynamic_wi4b32_afp32.litertlm",
+    "bytes": 344671744,
+    "sha256": "03e7da1eb1108b50dffaa9bb52cc7bcbad2eb0c66ca990267f480c1e545d2856",
+    "downloadUrl": "https://huggingface.co/litert-community/Qwen3-0.6B/resolve/fed81d17517e6ea64362e917ecf7e5accff12492/Qwen3-0.6B_dynamic_wi4b32_afp32.litertlm",
+    "license": "apache-2.0",
+    "modelCard": "https://huggingface.co/litert-community/Qwen3-0.6B",
+    "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0",
+    "remoteTop": false,
+    "name": "Qwen3-0.6B_dynamic_wi4b32_afp32.litertlm (retained model)"
+  }
+]

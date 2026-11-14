@@ -1,0 +1,524 @@
+[
+  {
+    "id": "geo-IN-0",
+    "family": "fact",
+    "topic": "geo:IN:0",
+    "text": "Indian Standard Time is five and a half hours ahead of UTC.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/India",
+    "fetched": 0
+  },
+  {
+    "id": "geo-IN-1",
+    "family": "fact",
+    "topic": "geo:IN:1",
+    "text": "The Taj Mahal stands beside the Yamuna River in Agra.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/India",
+    "fetched": 0
+  },
+  {
+    "id": "geo-IN-2",
+    "family": "fact",
+    "topic": "geo:IN:2",
+    "text": "Gir National Park in Gujarat is home to Asiatic lions.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/India",
+    "fetched": 0
+  },
+  {
+    "id": "geo-IN-3",
+    "family": "fact",
+    "topic": "geo:IN:3",
+    "text": "Ahmedabad’s historic city is on UNESCO’s World Heritage List.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/India",
+    "fetched": 0
+  },
+  {
+    "id": "geo-IN-4",
+    "family": "fact",
+    "topic": "geo:IN:4",
+    "text": "Jaipur is widely known as the Pink City.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/India",
+    "fetched": 0
+  },
+  {
+    "id": "geo-IN-5",
+    "family": "fact",
+    "topic": "geo:IN:5",
+    "text": "The Rann of Kutch includes vast seasonal salt marshes.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/India",
+    "fetched": 0
+  },
+  {
+    "id": "geo-IN-6",
+    "family": "fact",
+    "topic": "geo:IN:6",
+    "text": "Chess developed from earlier games including the Indian game chaturanga.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/India",
+    "fetched": 0
+  },
+  {
+    "id": "geo-IN-7",
+    "family": "fact",
+    "topic": "geo:IN:7",
+    "text": "India’s Chandrayaan-3 made a successful lunar soft landing in 2023.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/India",
+    "fetched": 0
+  },
+  {
+    "id": "geo-IN-8",
+    "family": "fact",
+    "topic": "geo:IN:8",
+    "text": "The Indian rupee uses the currency code INR.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/India",
+    "fetched": 0
+  },
+  {
+    "id": "geo-IN-9",
+    "family": "fact",
+    "topic": "geo:IN:9",
+    "text": "Bharatanatyam is a classical dance tradition associated with Tamil Nadu.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/India",
+    "fetched": 0
+  },
+  {
+    "id": "geo-IN-10",
+    "family": "fact",
+    "topic": "geo:IN:10",
+    "text": "The Western Ghats run along much of India’s western side.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/India",
+    "fetched": 0
+  },
+  {
+    "id": "geo-IN-11",
+    "family": "fact",
+    "topic": "geo:IN:11",
+    "text": "The monsoon is central to the seasonal pattern of rainfall across India.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/India",
+    "fetched": 0
+  },
+  {
+    "id": "geo-US-0",
+    "family": "fact",
+    "topic": "geo:US:0",
+    "text": "Alaska and Hawaii do not share a land border with the contiguous United States.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/United_States",
+    "fetched": 0
+  },
+  {
+    "id": "geo-US-1",
+    "family": "fact",
+    "topic": "geo:US:1",
+    "text": "The Grand Canyon in Arizona was carved by the Colorado River.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/United_States",
+    "fetched": 0
+  },
+  {
+    "id": "geo-US-2",
+    "family": "fact",
+    "topic": "geo:US:2",
+    "text": "Yellowstone became a national park in 1872.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/United_States",
+    "fetched": 0
+  },
+  {
+    "id": "geo-US-3",
+    "family": "fact",
+    "topic": "geo:US:3",
+    "text": "The United States has fifty states.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/United_States",
+    "fetched": 0
+  },
+  {
+    "id": "geo-US-4",
+    "family": "fact",
+    "topic": "geo:US:4",
+    "text": "The Statue of Liberty stands on Liberty Island in New York Harbor.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/United_States",
+    "fetched": 0
+  },
+  {
+    "id": "geo-US-5",
+    "family": "fact",
+    "topic": "geo:US:5",
+    "text": "The Great Lakes connect a large freshwater region along the United States–Canada border.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/United_States",
+    "fetched": 0
+  },
+  {
+    "id": "geo-GB-0",
+    "family": "fact",
+    "topic": "geo:GB:0",
+    "text": "The United Kingdom includes England, Scotland, Wales and Northern Ireland.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/United_Kingdom",
+    "fetched": 0
+  },
+  {
+    "id": "geo-GB-1",
+    "family": "fact",
+    "topic": "geo:GB:1",
+    "text": "The Greenwich meridian passes through London.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/United_Kingdom",
+    "fetched": 0
+  },
+  {
+    "id": "geo-GB-2",
+    "family": "fact",
+    "topic": "geo:GB:2",
+    "text": "Edinburgh is the capital of Scotland.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/United_Kingdom",
+    "fetched": 0
+  },
+  {
+    "id": "geo-GB-3",
+    "family": "fact",
+    "topic": "geo:GB:3",
+    "text": "The River Thames flows through London.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/United_Kingdom",
+    "fetched": 0
+  },
+  {
+    "id": "geo-JP-0",
+    "family": "fact",
+    "topic": "geo:JP:0",
+    "text": "Mount Fuji is Japan’s highest mountain.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Japan",
+    "fetched": 0
+  },
+  {
+    "id": "geo-JP-1",
+    "family": "fact",
+    "topic": "geo:JP:1",
+    "text": "Japan’s Shinkansen high-speed rail service began in 1964.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Japan",
+    "fetched": 0
+  },
+  {
+    "id": "geo-JP-2",
+    "family": "fact",
+    "topic": "geo:JP:2",
+    "text": "Kyoto served as Japan’s capital for more than a thousand years.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Japan",
+    "fetched": 0
+  },
+  {
+    "id": "geo-JP-3",
+    "family": "fact",
+    "topic": "geo:JP:3",
+    "text": "Japan is an island country in East Asia.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Japan",
+    "fetched": 0
+  },
+  {
+    "id": "geo-FR-0",
+    "family": "fact",
+    "topic": "geo:FR:0",
+    "text": "The Eiffel Tower was built for the 1889 world’s fair in Paris.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/France",
+    "fetched": 0
+  },
+  {
+    "id": "geo-FR-1",
+    "family": "fact",
+    "topic": "geo:FR:1",
+    "text": "The Louvre museum occupies a former royal palace.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/France",
+    "fetched": 0
+  },
+  {
+    "id": "geo-FR-2",
+    "family": "fact",
+    "topic": "geo:FR:2",
+    "text": "French Guiana is an overseas part of France in South America.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/France",
+    "fetched": 0
+  },
+  {
+    "id": "geo-FR-3",
+    "family": "fact",
+    "topic": "geo:FR:3",
+    "text": "The River Seine flows through Paris.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/France",
+    "fetched": 0
+  },
+  {
+    "id": "geo-AU-0",
+    "family": "fact",
+    "topic": "geo:AU:0",
+    "text": "The Great Barrier Reef lies off Australia’s northeastern coast.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Australia",
+    "fetched": 0
+  },
+  {
+    "id": "geo-AU-1",
+    "family": "fact",
+    "topic": "geo:AU:1",
+    "text": "Canberra is the capital of Australia.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Australia",
+    "fetched": 0
+  },
+  {
+    "id": "geo-AU-2",
+    "family": "fact",
+    "topic": "geo:AU:2",
+    "text": "The platypus is a mammal that lays eggs.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Australia",
+    "fetched": 0
+  },
+  {
+    "id": "geo-AU-3",
+    "family": "fact",
+    "topic": "geo:AU:3",
+    "text": "Australia’s seasons occur at opposite times to those in the Northern Hemisphere.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Australia",
+    "fetched": 0
+  },
+  {
+    "id": "geo-CA-0",
+    "family": "fact",
+    "topic": "geo:CA:0",
+    "text": "Ottawa is Canada’s capital.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Canada",
+    "fetched": 0
+  },
+  {
+    "id": "geo-CA-1",
+    "family": "fact",
+    "topic": "geo:CA:1",
+    "text": "Canada has coastlines on the Atlantic, Pacific and Arctic oceans.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Canada",
+    "fetched": 0
+  },
+  {
+    "id": "geo-CA-2",
+    "family": "fact",
+    "topic": "geo:CA:2",
+    "text": "English and French are Canada’s federal official languages.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Canada",
+    "fetched": 0
+  },
+  {
+    "id": "geo-CA-3",
+    "family": "fact",
+    "topic": "geo:CA:3",
+    "text": "The Bay of Fundy is famous for its large tidal range.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Canada",
+    "fetched": 0
+  },
+  {
+    "id": "geo-BR-0",
+    "family": "fact",
+    "topic": "geo:BR:0",
+    "text": "Portuguese is Brazil’s official language.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Brazil",
+    "fetched": 0
+  },
+  {
+    "id": "geo-BR-1",
+    "family": "fact",
+    "topic": "geo:BR:1",
+    "text": "Brasília became Brazil’s capital in 1960.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Brazil",
+    "fetched": 0
+  },
+  {
+    "id": "geo-BR-2",
+    "family": "fact",
+    "topic": "geo:BR:2",
+    "text": "Much of the Amazon rainforest lies within Brazil.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Brazil",
+    "fetched": 0
+  },
+  {
+    "id": "geo-BR-3",
+    "family": "fact",
+    "topic": "geo:BR:3",
+    "text": "Brazil is the largest country in South America by area.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Brazil",
+    "fetched": 0
+  },
+  {
+    "id": "geo-DE-0",
+    "family": "fact",
+    "topic": "geo:DE:0",
+    "text": "Berlin is Germany’s capital.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Germany",
+    "fetched": 0
+  },
+  {
+    "id": "geo-DE-1",
+    "family": "fact",
+    "topic": "geo:DE:1",
+    "text": "The Rhine is one of Germany’s major rivers.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Germany",
+    "fetched": 0
+  },
+  {
+    "id": "geo-DE-2",
+    "family": "fact",
+    "topic": "geo:DE:2",
+    "text": "Johannes Gutenberg developed a movable-type printing system in Mainz.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Germany",
+    "fetched": 0
+  },
+  {
+    "id": "geo-DE-3",
+    "family": "fact",
+    "topic": "geo:DE:3",
+    "text": "Germany is a federal republic.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Germany",
+    "fetched": 0
+  },
+  {
+    "id": "geo-EG-0",
+    "family": "fact",
+    "topic": "geo:EG:0",
+    "text": "The Nile flows north through Egypt toward the Mediterranean Sea.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Egypt",
+    "fetched": 0
+  },
+  {
+    "id": "geo-EG-1",
+    "family": "fact",
+    "topic": "geo:EG:1",
+    "text": "The pyramids at Giza were built during ancient Egypt’s Old Kingdom.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Egypt",
+    "fetched": 0
+  },
+  {
+    "id": "geo-EG-2",
+    "family": "fact",
+    "topic": "geo:EG:2",
+    "text": "Cairo is Egypt’s capital.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Egypt",
+    "fetched": 0
+  },
+  {
+    "id": "geo-EG-3",
+    "family": "fact",
+    "topic": "geo:EG:3",
+    "text": "The Suez Canal connects the Mediterranean and Red seas.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Egypt",
+    "fetched": 0
+  },
+  {
+    "id": "geo-NZ-0",
+    "family": "fact",
+    "topic": "geo:NZ:0",
+    "text": "New Zealand has two main islands commonly called the North and South islands.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/New_Zealand",
+    "fetched": 0
+  },
+  {
+    "id": "geo-NZ-1",
+    "family": "fact",
+    "topic": "geo:NZ:1",
+    "text": "The kiwi is a flightless bird native to New Zealand.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/New_Zealand",
+    "fetched": 0
+  },
+  {
+    "id": "geo-NZ-2",
+    "family": "fact",
+    "topic": "geo:NZ:2",
+    "text": "Wellington is New Zealand’s capital.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/New_Zealand",
+    "fetched": 0
+  },
+  {
+    "id": "geo-NZ-3",
+    "family": "fact",
+    "topic": "geo:NZ:3",
+    "text": "The Māori name Aotearoa is widely used for New Zealand.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/New_Zealand",
+    "fetched": 0
+  },
+  {
+    "id": "geo-ZA-0",
+    "family": "fact",
+    "topic": "geo:ZA:0",
+    "text": "South Africa has coastlines on both the Atlantic and Indian oceans.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/South_Africa",
+    "fetched": 0
+  },
+  {
+    "id": "geo-ZA-1",
+    "family": "fact",
+    "topic": "geo:ZA:1",
+    "text": "Table Mountain overlooks Cape Town.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/South_Africa",
+    "fetched": 0
+  },
+  {
+    "id": "geo-ZA-2",
+    "family": "fact",
+    "topic": "geo:ZA:2",
+    "text": "South Africa is in the Southern Hemisphere.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/South_Africa",
+    "fetched": 0
+  },
+  {
+    "id": "geo-ZA-3",
+    "family": "fact",
+    "topic": "geo:ZA:3",
+    "text": "The rand is South Africa’s currency.",
+    "source": "Reference: Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/South_Africa",
+    "fetched": 0
+  }
+]

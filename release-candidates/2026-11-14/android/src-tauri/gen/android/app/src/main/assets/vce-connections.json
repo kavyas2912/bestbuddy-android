@@ -1,0 +1,193 @@
+[
+  {
+    "id": "whatsapp",
+    "name": "WhatsApp",
+    "package": "com.whatsapp",
+    "url": "https://www.whatsapp.com/",
+    "countries": [
+      "IN",
+      "BR",
+      "GB",
+      "DE",
+      "ZA",
+      "EG"
+    ]
+  },
+  {
+    "id": "instagram",
+    "name": "Instagram",
+    "package": "com.instagram.android",
+    "url": "https://www.instagram.com/",
+    "countries": []
+  },
+  {
+    "id": "youtube",
+    "name": "YouTube",
+    "package": "com.google.android.youtube",
+    "url": "https://www.youtube.com/",
+    "countries": []
+  },
+  {
+    "id": "facebook",
+    "name": "Facebook",
+    "package": "com.facebook.katana",
+    "url": "https://www.facebook.com/",
+    "countries": []
+  },
+  {
+    "id": "telegram",
+    "name": "Telegram",
+    "package": "org.telegram.messenger",
+    "url": "https://telegram.org/",
+    "countries": [
+      "IN",
+      "BR"
+    ]
+  },
+  {
+    "id": "x",
+    "name": "X",
+    "package": "com.twitter.android",
+    "url": "https://x.com/",
+    "countries": [
+      "JP",
+      "US",
+      "GB"
+    ]
+  },
+  {
+    "id": "linkedin",
+    "name": "LinkedIn",
+    "package": "com.linkedin.android",
+    "url": "https://www.linkedin.com/",
+    "countries": [
+      "IN",
+      "US",
+      "GB"
+    ]
+  },
+  {
+    "id": "snapchat",
+    "name": "Snapchat",
+    "package": "com.snapchat.android",
+    "url": "https://www.snapchat.com/",
+    "countries": [
+      "IN",
+      "US",
+      "FR"
+    ]
+  },
+  {
+    "id": "reddit",
+    "name": "Reddit",
+    "package": "com.reddit.frontpage",
+    "url": "https://www.reddit.com/",
+    "countries": [
+      "US",
+      "CA",
+      "AU",
+      "GB"
+    ]
+  },
+  {
+    "id": "discord",
+    "name": "Discord",
+    "package": "com.discord",
+    "url": "https://discord.com/",
+    "countries": [
+      "US",
+      "CA",
+      "JP"
+    ]
+  },
+  {
+    "id": "sharechat",
+    "name": "ShareChat",
+    "package": "in.mohalla.sharechat",
+    "url": "https://sharechat.com/",
+    "countries": [
+      "IN"
+    ]
+  },
+  {
+    "id": "moj",
+    "name": "Moj",
+    "package": "in.mohalla.video",
+    "url": "https://mojapp.in/",
+    "countries": [
+      "IN"
+    ]
+  },
+  {
+    "id": "line",
+    "name": "LINE",
+    "package": "jp.naver.line.android",
+    "url": "https://www.line.me/",
+    "countries": [
+      "JP",
+      "TW",
+      "TH"
+    ]
+  },
+  {
+    "id": "kakao",
+    "name": "KakaoTalk",
+    "package": "com.kakao.talk",
+    "url": "https://www.kakaocorp.com/page/service/service/KakaoTalk",
+    "countries": [
+      "KR"
+    ]
+  },
+  {
+    "id": "wechat",
+    "name": "WeChat",
+    "package": "com.tencent.mm",
+    "url": "https://www.wechat.com/",
+    "countries": [
+      "CN"
+    ]
+  },
+  {
+    "id": "weibo",
+    "name": "Weibo",
+    "package": "com.sina.weibo",
+    "url": "https://weibo.com/",
+    "countries": [
+      "CN"
+    ]
+  },
+  {
+    "id": "xiaohongshu",
+    "name": "Xiaohongshu",
+    "package": "com.xingin.xhs",
+    "url": "https://www.xiaohongshu.com/",
+    "countries": [
+      "CN"
+    ]
+  },
+  {
+    "id": "bilibili",
+    "name": "Bilibili",
+    "package": "tv.danmaku.bili",
+    "url": "https://www.bilibili.com/",
+    "countries": [
+      "CN"
+    ]
+  },
+  {
+    "id": "tiktok",
+    "name": "TikTok",
+    "package": "com.zhiliaoapp.musically",
+    "url": "https://www.tiktok.com/",
+    "countries": [
+      "US",
+      "GB",
+      "FR",
+      "DE",
+      "JP",
+      "BR",
+      "AU",
+      "CA"
+    ]
+  }
+]

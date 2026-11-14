@@ -1,0 +1,57 @@
+{
+  "members": [
+    {
+      "name": "Coforge Ltd.",
+      "symbol": "COFORGE.NS",
+      "sector": "Information Technology"
+    },
+    {
+      "name": "HCL Technologies Ltd.",
+      "symbol": "HCLTECH.NS",
+      "sector": "Information Technology"
+    },
+    {
+      "name": "Infosys Ltd.",
+      "symbol": "INFY.NS",
+      "sector": "Information Technology"
+    },
+    {
+      "name": "LTM Ltd.",
+      "symbol": "LTM.NS",
+      "sector": "Information Technology"
+    },
+    {
+      "name": "MphasiS Ltd.",
+      "symbol": "MPHASIS.NS",
+      "sector": "Information Technology"
+    },
+    {
+      "name": "Oracle Financial Services Software Ltd.",
+      "symbol": "OFSS.NS",
+      "sector": "Information Technology"
+    },
+    {
+      "name": "Persistent Systems Ltd.",
+      "symbol": "PERSISTENT.NS",
+      "sector": "Information Technology"
+    },
+    {
+      "name": "Tata Consultancy Services Ltd.",
+      "symbol": "TCS.NS",
+      "sector": "Information Technology"
+    },
+    {
+      "name": "Tech Mahindra Ltd.",
+      "symbol": "TECHM.NS",
+      "sector": "Information Technology"
+    },
+    {
+      "name": "Wipro Ltd.",
+      "symbol": "WIPRO.NS",
+      "sector": "Information Technology"
+    }
+  ],
+  "source": "https://www.niftyindices.com/IndexConstituent/ind_niftyitlist.csv",
+  "retrieved": "2026-10-28",
+  "referenceOnly": false
+}
