@@ -1,0 +1,1276 @@
+{
+  "name": "BestBuddyV1.07.5",
+  "baseline": "user 0.7.4",
+  "source_summary": {
+    "new": 9,
+    "modified": 15,
+    "unchanged": 229
+  },
+  "files": {
+    "BUILD_ANDROID.cmd": {
+      "bytes": 315,
+      "sha256": "7e60e6156dad4a6954d87be50b550c6d15d6ffb60dc1b7f7ee7a07e92058539f",
+      "baseline": "new"
+    },
+    "BUILD_ANDROID.ps1": {
+      "bytes": 5930,
+      "sha256": "399d32ee8397732186d18e220ff7a65c4c8af60529dac609aee9b5545dce5175",
+      "baseline": "new"
+    },
+    "CHANGE_SPEC.md": {
+      "bytes": 3398,
+      "sha256": "70d37359ca634f43315908390f2a6195c07c0ed11ab2097b03f768adec7a4a77",
+      "baseline": "new"
+    },
+    "Cargo.lock": {
+      "bytes": 121145,
+      "sha256": "85ff0aa4bb6feae297ee1c122d5bdbe8a1634a40df54ecadb8e576e0743da700",
+      "baseline": "modified"
+    },
+    "Cargo.toml": {
+      "bytes": 211,
+      "sha256": "a8ad6547ae562eef22aa8fc22bdeece2f447b258ddde6270bda91b0dfe29f361",
+      "baseline": "unchanged"
+    },
+    "README.md": {
+      "bytes": 4543,
+      "sha256": "af51df4c980c34c711e2fe945bb3f2e8b96b01ed1bbe9a585d988c1cacfdbac7",
+      "baseline": "modified"
+    },
+    "RUN_TESTS.cmd": {
+      "bytes": 131,
+      "sha256": "a38d7dddc059cc8f1daa7850e47790b5a863a06be48c9f37bdb300be6ac7a006",
+      "baseline": "new"
+    },
+    "RUN_TESTS.ps1": {
+      "bytes": 2112,
+      "sha256": "0e9f066893a41a1b9b93639c904a2b9f0f62d020bf0f7ab70f8d7c8b1d5bfb59",
+      "baseline": "new"
+    },
+    "android-plugins/vce-audio/AudioPlugin.kt": {
+      "bytes": 841,
+      "sha256": "792b67b14357a725c1b0fb66e01e5301e70260c1a3ad2db23e81b819351c6028",
+      "baseline": "unchanged"
+    },
+    "android-plugins/vce-platform/CallNumber.kt": {
+      "bytes": 398,
+      "sha256": "847486f0a1a1ada7bc26fd4a9bfd0b9b740c00b3ded81973075d97b2ad5872bb",
+      "baseline": "unchanged"
+    },
+    "android-plugins/vce-platform/Connections.kt": {
+      "bytes": 1522,
+      "sha256": "2452911360967fb27b281e902ce2ae5efc8124d557ea532f7aa46c9ae4143cb5",
+      "baseline": "unchanged"
+    },
+    "android-plugins/vce-platform/ContactCalls.kt": {
+      "bytes": 3083,
+      "sha256": "87229587fa0e81c0f26a0a7dba0c57df7923fbc6ca3972bc8bcc743e4394b526",
+      "baseline": "unchanged"
+    },
+    "android-plugins/vce-platform/HfTokenStore.kt": {
+      "bytes": 2078,
+      "sha256": "046ab9d19102a0da7d9db86ceaceb82c967ff341ca099d85c4ab1ca9f9b57902",
+      "baseline": "unchanged"
+    },
+    "android-plugins/vce-platform/LocalModelScanner.kt": {
+      "bytes": 3479,
+      "sha256": "b76afc93964007f38e58a3a73e582d08b36399ef84032950559753725192aaba",
+      "baseline": "unchanged"
+    },
+    "android-plugins/vce-platform/ModelController.kt": {
+      "bytes": 23482,
+      "sha256": "9466e341073ec0a8e581a48b5d0dad398fe94739115f787fd37570e5bc1943c6",
+      "baseline": "unchanged"
+    },
+    "android-plugins/vce-platform/SafetyMonitorService.kt": {
+      "bytes": 18460,
+      "sha256": "908f57762c885753c81e4b9abea1d7a20b43c3e4650fa67d960fad506e606ffd",
+      "baseline": "unchanged"
+    },
+    "android-plugins/vce-platform/SafetyRules.kt": {
+      "bytes": 2512,
+      "sha256": "ca48ac1ffa79826329afb052d4a5374c08853ec6101bf89b85813fc24945e613",
+      "baseline": "unchanged"
+    },
+    "android-plugins/vce-platform/SharedModelStore.kt": {
+      "bytes": 3700,
+      "sha256": "299f39cf0eaa6f1b2bf5209413fac4be8d78c6418d679fe0515ca4b897049723",
+      "baseline": "unchanged"
+    },
+    "android-plugins/vce-platform/SpeechPlan.kt": {
+      "bytes": 1147,
+      "sha256": "578b3ee38a00c5bf3a9f12ba0e71be19137c6de118dc0aa70f78076b3f7fc417",
+      "baseline": "unchanged"
+    },
+    "android-plugins/vce-platform/VcePlatformPlugin.kt": {
+      "bytes": 15110,
+      "sha256": "06556983cdd857bf2573801f51c8e26e24d71be2c415311a3ba2bc3fdb15b110",
+      "baseline": "unchanged"
+    },
+    "android-plugins/vce-platform/VoiceController.kt": {
+      "bytes": 9917,
+      "sha256": "402242cb7ea86d194ec230982b91ac64cdfba0a5d180f870891044d108b1e0b8",
+      "baseline": "unchanged"
+    },
+    "android-plugins/vce-platform/connections.json": {
+      "bytes": 3590,
+      "sha256": "a2095bdb3a1bbc7db3d3d7b9b97787ce0134579206e9e8a94d9050e605239838",
+      "baseline": "unchanged"
+    },
+    "android-plugins/vce-platform/legacy-models.json": {
+      "bytes": 1354,
+      "sha256": "2da54f57bbaab38eea3a1b99e5105ab7db149317c83aed639ca254424f10d385",
+      "baseline": "unchanged"
+    },
+    "android-plugins/vce-platform/models.json": {
+      "bytes": 8272,
+      "sha256": "33cf8902cf858a46d2ca9aad0b2f9fed6fc2f376d8b251dba299f1a69d726b00",
+      "baseline": "unchanged"
+    },
+    "icons/128x128.png": {
+      "bytes": 24366,
+      "sha256": "d1116ba71b69811ef29a7d0015be64c08aae903a0adbb5d6c15cb4cc3235f58e",
+      "baseline": "unchanged"
+    },
+    "icons/128x128@2x.png": {
+      "bytes": 78661,
+      "sha256": "2d264776d20666cb6c2e7180f3763f02ae389a25fd7d062c0ff6e39531639b07",
+      "baseline": "unchanged"
+    },
+    "icons/32x32.png": {
+      "bytes": 2480,
+      "sha256": "b764c149f437dabe0e8ee217a32f5d3392a87e4f16179df540c0d99d574d4563",
+      "baseline": "unchanged"
+    },
+    "icons/64x64.png": {
+      "bytes": 7873,
+      "sha256": "0c1e28ba325d847eb91ea5cebeadb0b0f6004f0ed14e97dc89872cb19b413c5a",
+      "baseline": "unchanged"
+    },
+    "icons/Square107x107Logo.png": {
+      "bytes": 18741,
+      "sha256": "805aeb31eef79ba0d72d0c009a08a1dbf5aa03477d8794ba3e0f69184b23909a",
+      "baseline": "unchanged"
+    },
+    "icons/Square142x142Logo.png": {
+      "bytes": 30425,
+      "sha256": "4105f27ba1ce3a3d539cf7d9e7821f880a67eae5c6e31344fea0d5c05648719d",
+      "baseline": "unchanged"
+    },
+    "icons/Square150x150Logo.png": {
+      "bytes": 33287,
+      "sha256": "b479e22c84900a2adbe061de1834bbbfc71c0276e2682ee8a95b2621a6ff44aa",
+      "baseline": "unchanged"
+    },
+    "icons/Square284x284Logo.png": {
+      "bytes": 92610,
+      "sha256": "6f9653ff8f7f3079c5cdb0764ccd5c120512bd9982f153c3affac4bd472c3629",
+      "baseline": "unchanged"
+    },
+    "icons/Square30x30Logo.png": {
+      "bytes": 2264,
+      "sha256": "fe31d1680faf599551c0a5fa6330b3b134ae2f016fbbee4271acdbab15a782c1",
+      "baseline": "unchanged"
+    },
+    "icons/Square310x310Logo.png": {
+      "bytes": 106119,
+      "sha256": "da984716b0c1163e23f8b59957c671406e738b9b856ccb7b47e800480c4512a6",
+      "baseline": "unchanged"
+    },
+    "icons/Square44x44Logo.png": {
+      "bytes": 4163,
+      "sha256": "6c725fad1ea2349c0838d992c20c2958b8b935cd854c6a2ac93d4b848f28b97c",
+      "baseline": "unchanged"
+    },
+    "icons/Square71x71Logo.png": {
+      "bytes": 9433,
+      "sha256": "3c25bfeec0a10d6b3c64797179c801924e494f8ab7ec08812412af19f256145d",
+      "baseline": "unchanged"
+    },
+    "icons/Square89x89Logo.png": {
+      "bytes": 13747,
+      "sha256": "7304d3826e0a14fc9163eaef6ef4792399a3b40f41ecf01c4d3750b6d6f71818",
+      "baseline": "unchanged"
+    },
+    "icons/StoreLogo.png": {
+      "bytes": 5165,
+      "sha256": "481aa2bcd9143afa927ec9ddd12a60680191874de3a2df7924a68ee640ca33f8",
+      "baseline": "unchanged"
+    },
+    "icons/android/mipmap-anydpi-v26/ic_launcher.xml": {
+      "bytes": 261,
+      "sha256": "760d4b8a06bf7163dd010c33ad2cac9e4a75fa0177afaba042f83e311eef0c3e",
+      "baseline": "unchanged"
+    },
+    "icons/android/mipmap-hdpi/ic_launcher.png": {
+      "bytes": 7576,
+      "sha256": "ef09c457568380cc78565161639aca8a345e7cf1401bb5abdadded83483b8043",
+      "baseline": "unchanged"
+    },
+    "icons/android/mipmap-hdpi/ic_launcher_foreground.png": {
+      "bytes": 37872,
+      "sha256": "31426820918c285360eb4e74b72a9960d8b2876718e5baa705aeb438f6745421",
+      "baseline": "unchanged"
+    },
+    "icons/android/mipmap-hdpi/ic_launcher_round.png": {
+      "bytes": 8161,
+      "sha256": "0c96167f459531294fe3cf4bef741ac31459055649b96113033ad112fc21f7d9",
+      "baseline": "unchanged"
+    },
+    "icons/android/mipmap-mdpi/ic_launcher.png": {
+      "bytes": 3893,
+      "sha256": "a68b8fb98aed37198ba894e32ed3bf97495ca6ae8872c61a5df0b1f4030ebf0a",
+      "baseline": "unchanged"
+    },
+    "icons/android/mipmap-mdpi/ic_launcher_foreground.png": {
+      "bytes": 19065,
+      "sha256": "8f58e56736367c053724343b7ff5677ef78b9e90950b40a5cfa0b65b10aa34fa",
+      "baseline": "unchanged"
+    },
+    "icons/android/mipmap-mdpi/ic_launcher_round.png": {
+      "bytes": 4119,
+      "sha256": "3c3e82c68ee0d68e59a5cf1d2f744d47dc2d78057912c979d10c879c20a3ff94",
+      "baseline": "unchanged"
+    },
+    "icons/android/mipmap-xhdpi/ic_launcher.png": {
+      "bytes": 12317,
+      "sha256": "a51278d10a24037862ed6bea861ff35e2b4703fd9812c4429b584abff99e4832",
+      "baseline": "unchanged"
+    },
+    "icons/android/mipmap-xhdpi/ic_launcher_foreground.png": {
+      "bytes": 60246,
+      "sha256": "1d280f3c19c3e5e75ab03de0c622b9629706489d390fce5c6df56c97f4919971",
+      "baseline": "unchanged"
+    },
+    "icons/android/mipmap-xhdpi/ic_launcher_round.png": {
+      "bytes": 13296,
+      "sha256": "416f0e60e54c5be8f7726d6558b187638eb1e46c94b50a547a9ab69002e10334",
+      "baseline": "unchanged"
+    },
+    "icons/android/mipmap-xxhdpi/ic_launcher.png": {
+      "bytes": 24355,
+      "sha256": "fa0962e5149acdb09367e72140d3fda200e953070142ca38da8272d078e6a6bb",
+      "baseline": "unchanged"
+    },
+    "icons/android/mipmap-xxhdpi/ic_launcher_foreground.png": {
+      "bytes": 113471,
+      "sha256": "b1d2e5f4bd440a30eeae58add9e8bd22e405a20d3640c467d8008a8dcd977e97",
+      "baseline": "unchanged"
+    },
+    "icons/android/mipmap-xxhdpi/ic_launcher_round.png": {
+      "bytes": 26253,
+      "sha256": "368972209ee13f597aec75f3e1fae617b965ea13b43961d7c61d077afcde0b6f",
+      "baseline": "unchanged"
+    },
+    "icons/android/mipmap-xxxhdpi/ic_launcher.png": {
+      "bytes": 39873,
+      "sha256": "fbee64316d3ad39897399c3527d761183d6acf3f1bdd7fe4d7588651ed705e10",
+      "baseline": "unchanged"
+    },
+    "icons/android/mipmap-xxxhdpi/ic_launcher_foreground.png": {
+      "bytes": 175346,
+      "sha256": "672d8e51562b3bce39fa3d706b72889bcc5798ea8643da02410147da92b42b80",
+      "baseline": "unchanged"
+    },
+    "icons/android/mipmap-xxxhdpi/ic_launcher_round.png": {
+      "bytes": 42661,
+      "sha256": "0a67e0e566ce11e13f82559647a42db85a365df0cbbdebce3c09da58ab0259c7",
+      "baseline": "unchanged"
+    },
+    "icons/android/values/ic_launcher_background.xml": {
+      "bytes": 118,
+      "sha256": "b1c42868a1777ed1cf61108b506ffc91d0a826318d8516e36cf8f76fab8c4ced",
+      "baseline": "unchanged"
+    },
+    "icons/icon.icns": {
+      "bytes": 1275514,
+      "sha256": "20bb7982afc3c6550c46f4cf14e7eba0b1438ee1284da2394638867006995573",
+      "baseline": "unchanged"
+    },
+    "icons/icon.ico": {
+      "bytes": 96673,
+      "sha256": "1ff68fa1376aa2744e0e4ba49f19725a549fefef87cb8b0f1a1fc69c3b47cc34",
+      "baseline": "unchanged"
+    },
+    "icons/icon.png": {
+      "bytes": 225586,
+      "sha256": "fb2026a3dbbb6ba965bd4a92b06814ade53562eb6481153afac7aaffd37c7b07",
+      "baseline": "unchanged"
+    },
+    "icons/ios/AppIcon-20x20@1x.png": {
+      "bytes": 1096,
+      "sha256": "cf3582e36c406ac1c66ae3b21027c2a37ac952dfa849227ed336515ac7750a4f",
+      "baseline": "unchanged"
+    },
+    "icons/ios/AppIcon-20x20@2x-1.png": {
+      "bytes": 3353,
+      "sha256": "2f305ccfaebe54f53533f02cefee28c537779213302d749e5f47f9b5d566cbc2",
+      "baseline": "unchanged"
+    },
+    "icons/ios/AppIcon-20x20@2x.png": {
+      "bytes": 3353,
+      "sha256": "2f305ccfaebe54f53533f02cefee28c537779213302d749e5f47f9b5d566cbc2",
+      "baseline": "unchanged"
+    },
+    "icons/ios/AppIcon-20x20@3x.png": {
+      "bytes": 6667,
+      "sha256": "a3f6979e96b7b3b7fd5a76b8daa38157fbb35a7c38f8fe5588f297d7b5055f68",
+      "baseline": "unchanged"
+    },
+    "icons/ios/AppIcon-29x29@1x.png": {
+      "bytes": 1956,
+      "sha256": "a86f1046ac03dddb9fc5fc9567445e2900dfe0257117314d67123fd1954330d5",
+      "baseline": "unchanged"
+    },
+    "icons/ios/AppIcon-29x29@2x-1.png": {
+      "bytes": 6315,
+      "sha256": "e9e28959c484bf981678ea8cbae9a9481f2027e295d21b011496f65823fbb80c",
+      "baseline": "unchanged"
+    },
+    "icons/ios/AppIcon-29x29@2x.png": {
+      "bytes": 6315,
+      "sha256": "e9e28959c484bf981678ea8cbae9a9481f2027e295d21b011496f65823fbb80c",
+      "baseline": "unchanged"
+    },
+    "icons/ios/AppIcon-29x29@3x.png": {
+      "bytes": 12663,
+      "sha256": "317ead4147cb136763a7663089087c080a17535d866d61ea44801dc485f7e5a4",
+      "baseline": "unchanged"
+    },
+    "icons/ios/AppIcon-40x40@1x.png": {
+      "bytes": 3353,
+      "sha256": "2f305ccfaebe54f53533f02cefee28c537779213302d749e5f47f9b5d566cbc2",
+      "baseline": "unchanged"
+    },
+    "icons/ios/AppIcon-40x40@2x-1.png": {
+      "bytes": 10991,
+      "sha256": "7e4ab8a3ee73705fb47cab942ea0c094e903a961c16b1cf7ddfa175277a1ae58",
+      "baseline": "unchanged"
+    },
+    "icons/ios/AppIcon-40x40@2x.png": {
+      "bytes": 10991,
+      "sha256": "7e4ab8a3ee73705fb47cab942ea0c094e903a961c16b1cf7ddfa175277a1ae58",
+      "baseline": "unchanged"
+    },
+    "icons/ios/AppIcon-40x40@3x.png": {
+      "bytes": 21942,
+      "sha256": "567703a402187ea7faa7d31439cad6fbd7dbb40be847e70f3fa3fb977be1dd2f",
+      "baseline": "unchanged"
+    },
+    "icons/ios/AppIcon-512@2x.png": {
+      "bytes": 569232,
+      "sha256": "d6599d81ee2f0e14e284651f89d2cc4a87029e0a8d06bed90d5bfe792cb1fcb7",
+      "baseline": "unchanged"
+    },
+    "icons/ios/AppIcon-60x60@2x.png": {
+      "bytes": 21942,
+      "sha256": "567703a402187ea7faa7d31439cad6fbd7dbb40be847e70f3fa3fb977be1dd2f",
+      "baseline": "unchanged"
+    },
+    "icons/ios/AppIcon-60x60@3x.png": {
+      "bytes": 43181,
+      "sha256": "189dc621c3e6da7170d08beca1ef735a66e5c89de8cb65deed028432f64065dc",
+      "baseline": "unchanged"
+    },
+    "icons/ios/AppIcon-76x76@1x.png": {
+      "bytes": 10017,
+      "sha256": "88a85e0f5dad7f332264de1e76ad965ee982dd4112e76fd259bae0ac1fe5323a",
+      "baseline": "unchanged"
+    },
+    "icons/ios/AppIcon-76x76@2x.png": {
+      "bytes": 32757,
+      "sha256": "562442bd1290be67b88fbb585f49063e43080f8f327d014fe10f155d637e4fb8",
+      "baseline": "unchanged"
+    },
+    "icons/ios/AppIcon-83.5x83.5@2x.png": {
+      "bytes": 38145,
+      "sha256": "30011e43117753e749bf86d6a085610fd277c275feda52468d127bc5340424dd",
+      "baseline": "unchanged"
+    },
+    "src-tauri/Cargo.toml": {
+      "bytes": 367,
+      "sha256": "add5e57de922b31f3d343577efea460f2eff8514204126e6b355f7dd5cb48e52",
+      "baseline": "modified"
+    },
+    "src-tauri/build.rs": {
+      "bytes": 57,
+      "sha256": "e2a9429f40bf0138505aefa42d958cb67be6b3f1f87f0e048f9275701f83e50c",
+      "baseline": "unchanged"
+    },
+    "src-tauri/capabilities/default.json": {
+      "bytes": 290,
+      "sha256": "3383e7cb2c9fbdac686bdb130ea95158d9fc504d8b100f7fbaaca3ba15829797",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/.editorconfig": {
+      "bytes": 230,
+      "sha256": "d22b394a5a140050065207d160273570edb04200480160e0951df3291dd7848f",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/.gitignore": {
+      "bytes": 290,
+      "sha256": "2d8a4dfb08ea1403e6eab97bc216158328c01ace4027f0dd3b65b2a088994270",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/.gitignore": {
+      "bytes": 143,
+      "sha256": "174bfc72691cfd2146e10c4dc930940ae29af4f9c79b7f3f7d1fe87b32689491",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/build.gradle.kts": {
+      "bytes": 2338,
+      "sha256": "229382923d57e0e42f0e0ecb8aebcfd812a33f7e4f802e9e8af4055f56143104",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/proguard-rules.pro": {
+      "bytes": 750,
+      "sha256": "56fd960cf225f6ca40f982b13a5dbb0d8bc3dfde13ff76422825c6070d0a1890",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/proguard-tauri.pro": {
+      "bytes": 170,
+      "sha256": "4621332e3aaf779d26b33a5f96c53608e4ec464dbf485a2d6db7cdea1f762807",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/AndroidManifest.xml": {
+      "bytes": 3849,
+      "sha256": "adb9325720a363623f56fc0c575c731ecaccbc1cf643ee9de12ec4db88b5c3fe",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/assets/tauri.conf.json": {
+      "bytes": 2188,
+      "sha256": "53a6a7c2e88580c14240d55303d53526794ddb7310fffece5192e3fc94dceb37",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/assets/vce-connections.json": {
+      "bytes": 3590,
+      "sha256": "a2095bdb3a1bbc7db3d3d7b9b97787ce0134579206e9e8a94d9050e605239838",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/assets/vce-legacy-models.json": {
+      "bytes": 1354,
+      "sha256": "2da54f57bbaab38eea3a1b99e5105ab7db149317c83aed639ca254424f10d385",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/assets/vce-models.json": {
+      "bytes": 8272,
+      "sha256": "33cf8902cf858a46d2ca9aad0b2f9fed6fc2f376d8b251dba299f1a69d726b00",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/java/app/vce/buddy/MainActivity.kt": {
+      "bytes": 253,
+      "sha256": "ad59bb1f8ad37377104703984a2a5a46ea371180709505d55f3a08efbe699e54",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/java/app/vce/buddy/generated/Ipc.kt": {
+      "bytes": 746,
+      "sha256": "996ca3e29547a95d76db5558a0216501d3a96d2d616c272b524d7d03c84993e2",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/java/app/vce/buddy/generated/Logger.kt": {
+      "bytes": 1975,
+      "sha256": "a409be1822a23797aa3b78ce65c4e1f88cebc17023e9891ace557c1339d121e2",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/java/app/vce/buddy/generated/PermissionHelper.kt": {
+      "bytes": 4236,
+      "sha256": "479c04bc6853823ea6c1afd90520dc75afd26ae65d628ec9ea5fa7f9643064b5",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/java/app/vce/buddy/generated/Rust.kt": {
+      "bytes": 1924,
+      "sha256": "972eaf2d81ebdf2d4c551aef1a6b69b8d4e08a2e68b902f57c41dbb440a9cd5d",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/java/app/vce/buddy/generated/RustWebChromeClient.kt": {
+      "bytes": 17078,
+      "sha256": "979524729b4bb5e25371c2bbf29233fa950a6e78516203e8280a186556f52448",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/java/app/vce/buddy/generated/RustWebView.kt": {
+      "bytes": 2913,
+      "sha256": "d9776d5778eaffbdc184b42cbe12a2b1ca25f8196c44224ddd01369fe1e761e3",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/java/app/vce/buddy/generated/RustWebViewClient.kt": {
+      "bytes": 7639,
+      "sha256": "e67489dc66da37ccde9545813185e77338ff572a2abe5f25065f7e27ecaa6169",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/java/app/vce/buddy/generated/TauriActivity.kt": {
+      "bytes": 1375,
+      "sha256": "633397cadccecb7b96dd5c66338d31ac6eda9c238ddb68e3c67cb28c4a04564f",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/java/app/vce/buddy/generated/WryActivity.kt": {
+      "bytes": 6703,
+      "sha256": "4cf542d590991791eb42abd58eef89937bf18a25ecc37847eb80ec907e18eacc",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/java/app/vce/buddy/generated/proguard-wry.pro": {
+      "bytes": 833,
+      "sha256": "e0f42f8160716adceeba7b990486d1844ae3bb3c33c5022f88bcd748c065b6a9",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/java/app/vce/platform/CallNumber.kt": {
+      "bytes": 398,
+      "sha256": "847486f0a1a1ada7bc26fd4a9bfd0b9b740c00b3ded81973075d97b2ad5872bb",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/java/app/vce/platform/Connections.kt": {
+      "bytes": 1522,
+      "sha256": "2452911360967fb27b281e902ce2ae5efc8124d557ea532f7aa46c9ae4143cb5",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/java/app/vce/platform/ContactCalls.kt": {
+      "bytes": 3083,
+      "sha256": "87229587fa0e81c0f26a0a7dba0c57df7923fbc6ca3972bc8bcc743e4394b526",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/java/app/vce/platform/HfTokenStore.kt": {
+      "bytes": 2078,
+      "sha256": "046ab9d19102a0da7d9db86ceaceb82c967ff341ca099d85c4ab1ca9f9b57902",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/java/app/vce/platform/LocalModelScanner.kt": {
+      "bytes": 3479,
+      "sha256": "b76afc93964007f38e58a3a73e582d08b36399ef84032950559753725192aaba",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/java/app/vce/platform/ModelController.kt": {
+      "bytes": 23482,
+      "sha256": "9466e341073ec0a8e581a48b5d0dad398fe94739115f787fd37570e5bc1943c6",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/java/app/vce/platform/SafetyMonitorService.kt": {
+      "bytes": 18460,
+      "sha256": "908f57762c885753c81e4b9abea1d7a20b43c3e4650fa67d960fad506e606ffd",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/java/app/vce/platform/SafetyRules.kt": {
+      "bytes": 2512,
+      "sha256": "ca48ac1ffa79826329afb052d4a5374c08853ec6101bf89b85813fc24945e613",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/java/app/vce/platform/SharedModelStore.kt": {
+      "bytes": 3700,
+      "sha256": "299f39cf0eaa6f1b2bf5209413fac4be8d78c6418d679fe0515ca4b897049723",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/java/app/vce/platform/SpeechPlan.kt": {
+      "bytes": 1147,
+      "sha256": "578b3ee38a00c5bf3a9f12ba0e71be19137c6de118dc0aa70f78076b3f7fc417",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/java/app/vce/platform/VcePlatformPlugin.kt": {
+      "bytes": 15110,
+      "sha256": "06556983cdd857bf2573801f51c8e26e24d71be2c415311a3ba2bc3fdb15b110",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/java/app/vce/platform/VoiceController.kt": {
+      "bytes": 9917,
+      "sha256": "402242cb7ea86d194ec230982b91ac64cdfba0a5d180f870891044d108b1e0b8",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/res/drawable/ic_launcher_background.xml": {
+      "bytes": 5606,
+      "sha256": "ed423c73a6f40a4d2909f0901e60527b3a807cd59e1b5593bcaae1808b1c6321",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml": {
+      "bytes": 1702,
+      "sha256": "01d1a6a6c1234eb7fe270d097eb283d72b9c95ae5118886f1b6573aad280f1f7",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/res/layout/activity_main.xml": {
+      "bytes": 780,
+      "sha256": "68466a0a3006f183eb3af4e978d52f50a68087a1aac0880bd16eef3760153bcb",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/res/mipmap-hdpi/ic_launcher.png": {
+      "bytes": 3524,
+      "sha256": "320e552422179b81dae014ee6cc00561bd6e7455767b28f5518b8862a8c7987c",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png": {
+      "bytes": 14102,
+      "sha256": "7a9ae0632bfe5b28a1e6e9a7b38982fef62be07c95de46c26bd4f901ac6b9753",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png": {
+      "bytes": 3524,
+      "sha256": "320e552422179b81dae014ee6cc00561bd6e7455767b28f5518b8862a8c7987c",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/res/mipmap-mdpi/ic_launcher.png": {
+      "bytes": 3377,
+      "sha256": "75322a261ba38a23a25647af0d1298f204f3b3fafd317b8122a1b9a1f38284ff",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png": {
+      "bytes": 9081,
+      "sha256": "2425d59d27578f75ca97d31d9ae8385898badce3d6a1774bfc2f0fd191dc12c7",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png": {
+      "bytes": 3377,
+      "sha256": "75322a261ba38a23a25647af0d1298f204f3b3fafd317b8122a1b9a1f38284ff",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png": {
+      "bytes": 7971,
+      "sha256": "44e5c3dc1dfb392f65e3dbcc9b986d30f10dd95b57e306657e56281b572fa684",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png": {
+      "bytes": 18900,
+      "sha256": "b1d19b8b78d0ed6903dd35b7640afba29b4cf02f3780e0d1cd46d9ebcbc93695",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png": {
+      "bytes": 7971,
+      "sha256": "44e5c3dc1dfb392f65e3dbcc9b986d30f10dd95b57e306657e56281b572fa684",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png": {
+      "bytes": 12392,
+      "sha256": "0b250fc4451dfd1e5a41128234d93225726a2984448b0b966af25677b167d8de",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png": {
+      "bytes": 29506,
+      "sha256": "ab9397c9827aef4b3a1f1f917fc722d54abcf26488880c8bf9c724d1e59ab905",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png": {
+      "bytes": 12392,
+      "sha256": "0b250fc4451dfd1e5a41128234d93225726a2984448b0b966af25677b167d8de",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png": {
+      "bytes": 16751,
+      "sha256": "dae1ff05b101efea50e4b622fe6a3af8ba8f761162fa7c4fd864adc7cb39eeac",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png": {
+      "bytes": 40510,
+      "sha256": "27cf0cdbc78bec8b9a14eaedb084c541a3c191fe5db89766e831fbfd21ce955d",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png": {
+      "bytes": 16751,
+      "sha256": "dae1ff05b101efea50e4b622fe6a3af8ba8f761162fa7c4fd864adc7cb39eeac",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/res/values/colors.xml": {
+      "bytes": 378,
+      "sha256": "b5626527d503417f0d8e5b1e08f338de7b31173bf0e122815f03e64932adbd88",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/res/values/strings.xml": {
+      "bytes": 147,
+      "sha256": "bfe0c5f24469b85ca36a7fbfc1f8be1deb45fa2398c58570997926134fd0b96f",
+      "baseline": "modified"
+    },
+    "src-tauri/gen/android/app/src/main/res/values/themes.xml": {
+      "bytes": 248,
+      "sha256": "20066a546f9c5c3bcb466990bc360ac4dcd95b66fd81d3f9868508a1aa00ab7a",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/res/values-night/themes.xml": {
+      "bytes": 248,
+      "sha256": "20066a546f9c5c3bcb466990bc360ac4dcd95b66fd81d3f9868508a1aa00ab7a",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/main/res/xml/file_paths.xml": {
+      "bytes": 210,
+      "sha256": "cdb4effab9f579e06f0f49d5fde4b3909fc5f03e978c9ba9ce34cf5b9f4b6902",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/test/java/app/vce/platform/CallNumberTest.kt": {
+      "bytes": 590,
+      "sha256": "e79f4be2ee1cd69bcc9e649374c15ee49a7ed500ce9f5e454cc8f8c5efce2f1b",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/test/java/app/vce/platform/SafetyRulesTest.kt": {
+      "bytes": 2759,
+      "sha256": "016115c2b78a23c8ecaae77a70daa45e67011f42e9c818da13cbbe1eb617e88a",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/src/test/java/app/vce/platform/SpeechPlanTest.kt": {
+      "bytes": 1036,
+      "sha256": "d3cc65bda9224bb06a4b8ca5bf2ee25d5eaaea9d05b689242deed37a4d237a3e",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/tauri.build.gradle.kts": {
+      "bytes": 254,
+      "sha256": "8fd5e21d72a96e196fed56fd5c15e5260a6de08670129ef71bb64fd8aeb6f3cf",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/app/tauri.properties": {
+      "bytes": 129,
+      "sha256": "24f174ead2712ea61b8da4e20a41992970df126b0d7d0f207f4e9460717ea232",
+      "baseline": "modified"
+    },
+    "src-tauri/gen/android/build.gradle.kts": {
+      "bytes": 398,
+      "sha256": "6b824c64fcd8b2aec3e422d12860640b92dc3abd4f45de89387d66c9647506db",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/buildSrc/build.gradle.kts": {
+      "bytes": 648,
+      "sha256": "68aa6e81f08c05dabf00cb0dbae5f5140c169d9893372e407ea4dc2523944e37",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/buildSrc/src/main/java/app/vce/buddy/kotlin/BuildTask.kt": {
+      "bytes": 2370,
+      "sha256": "a23fc50bb35704302240dcfc02d30b972ec67aee59eaf14b23443e7fb4a02236",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/buildSrc/src/main/java/app/vce/buddy/kotlin/RustPlugin.kt": {
+      "bytes": 3388,
+      "sha256": "ba97577f2cf2b123eddd332662844d2b93a2ee589be65f3843bc7de4ea5b7ba7",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/gradle/wrapper/gradle-wrapper.jar": {
+      "bytes": 48462,
+      "sha256": "497c8c2a7e5031f6aa847f88104aa80a93532ec32ee17bdb8d1d2f67a194a9c7",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/gradle/wrapper/gradle-wrapper.properties": {
+      "bytes": 232,
+      "sha256": "b347084df5a6747528d85c39c1ec723ac38110c91a4a6a950e4483509f209945",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/gradle.properties": {
+      "bytes": 1241,
+      "sha256": "02a22057efb36491da460e4ecee89db4961b14c2aa48db9a33108748418a480d",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/gradlew": {
+      "bytes": 8656,
+      "sha256": "a5a5c199ba02189ae8c46a334223371a20599d9c298ef65e7540ede4a3f72d59",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/gradlew.bat": {
+      "bytes": 2766,
+      "sha256": "59328c7a17f673b1a63040bfb380a0c749e5d6df3406f7f18641060314cd9aa1",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/settings.gradle": {
+      "bytes": 52,
+      "sha256": "99856053f245337d20d308dbeaf9cd7250ad0c186ebbb6866ab46a6e7005ee19",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/android/tauri.settings.gradle": {
+      "bytes": 247,
+      "sha256": "2a8f520b482c6d80fa193f75f70ecf06c7c95d320de15a2bef8de2fd523c5ec2",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/schemas/acl-manifests.json": {
+      "bytes": 70566,
+      "sha256": "24e94e2803f99460f60a8eac7c51ed1387fe07d4217cfcf0cb6f39f81a6dead8",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/schemas/android-schema.json": {
+      "bytes": 130866,
+      "sha256": "a26622dd1975eeb7051d2cfbfc0f83bfdc312c3f34562d5d1dc83f92011e740b",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/schemas/capabilities.json": {
+      "bytes": 221,
+      "sha256": "2e4520e604d3302a592dd47bd3dd3e892c1356f79dbf0ce02fad1e1a7f945d24",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/schemas/desktop-schema.json": {
+      "bytes": 130866,
+      "sha256": "a26622dd1975eeb7051d2cfbfc0f83bfdc312c3f34562d5d1dc83f92011e740b",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/schemas/mobile-schema.json": {
+      "bytes": 130866,
+      "sha256": "a26622dd1975eeb7051d2cfbfc0f83bfdc312c3f34562d5d1dc83f92011e740b",
+      "baseline": "unchanged"
+    },
+    "src-tauri/gen/schemas/windows-schema.json": {
+      "bytes": 130866,
+      "sha256": "a26622dd1975eeb7051d2cfbfc0f83bfdc312c3f34562d5d1dc83f92011e740b",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/128x128.png": {
+      "bytes": 24366,
+      "sha256": "d1116ba71b69811ef29a7d0015be64c08aae903a0adbb5d6c15cb4cc3235f58e",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/128x128@2x.png": {
+      "bytes": 78661,
+      "sha256": "2d264776d20666cb6c2e7180f3763f02ae389a25fd7d062c0ff6e39531639b07",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/32x32.png": {
+      "bytes": 2480,
+      "sha256": "b764c149f437dabe0e8ee217a32f5d3392a87e4f16179df540c0d99d574d4563",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/64x64.png": {
+      "bytes": 7873,
+      "sha256": "0c1e28ba325d847eb91ea5cebeadb0b0f6004f0ed14e97dc89872cb19b413c5a",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/Square107x107Logo.png": {
+      "bytes": 18741,
+      "sha256": "805aeb31eef79ba0d72d0c009a08a1dbf5aa03477d8794ba3e0f69184b23909a",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/Square142x142Logo.png": {
+      "bytes": 30425,
+      "sha256": "4105f27ba1ce3a3d539cf7d9e7821f880a67eae5c6e31344fea0d5c05648719d",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/Square150x150Logo.png": {
+      "bytes": 33287,
+      "sha256": "b479e22c84900a2adbe061de1834bbbfc71c0276e2682ee8a95b2621a6ff44aa",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/Square284x284Logo.png": {
+      "bytes": 92610,
+      "sha256": "6f9653ff8f7f3079c5cdb0764ccd5c120512bd9982f153c3affac4bd472c3629",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/Square30x30Logo.png": {
+      "bytes": 2264,
+      "sha256": "fe31d1680faf599551c0a5fa6330b3b134ae2f016fbbee4271acdbab15a782c1",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/Square310x310Logo.png": {
+      "bytes": 106119,
+      "sha256": "da984716b0c1163e23f8b59957c671406e738b9b856ccb7b47e800480c4512a6",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/Square44x44Logo.png": {
+      "bytes": 4163,
+      "sha256": "6c725fad1ea2349c0838d992c20c2958b8b935cd854c6a2ac93d4b848f28b97c",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/Square71x71Logo.png": {
+      "bytes": 9433,
+      "sha256": "3c25bfeec0a10d6b3c64797179c801924e494f8ab7ec08812412af19f256145d",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/Square89x89Logo.png": {
+      "bytes": 13747,
+      "sha256": "7304d3826e0a14fc9163eaef6ef4792399a3b40f41ecf01c4d3750b6d6f71818",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/StoreLogo.png": {
+      "bytes": 5165,
+      "sha256": "481aa2bcd9143afa927ec9ddd12a60680191874de3a2df7924a68ee640ca33f8",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/android/mipmap-anydpi-v26/ic_launcher.xml": {
+      "bytes": 261,
+      "sha256": "760d4b8a06bf7163dd010c33ad2cac9e4a75fa0177afaba042f83e311eef0c3e",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/android/mipmap-hdpi/ic_launcher.png": {
+      "bytes": 7576,
+      "sha256": "ef09c457568380cc78565161639aca8a345e7cf1401bb5abdadded83483b8043",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/android/mipmap-hdpi/ic_launcher_foreground.png": {
+      "bytes": 37872,
+      "sha256": "31426820918c285360eb4e74b72a9960d8b2876718e5baa705aeb438f6745421",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/android/mipmap-hdpi/ic_launcher_round.png": {
+      "bytes": 8161,
+      "sha256": "0c96167f459531294fe3cf4bef741ac31459055649b96113033ad112fc21f7d9",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/android/mipmap-mdpi/ic_launcher.png": {
+      "bytes": 3893,
+      "sha256": "a68b8fb98aed37198ba894e32ed3bf97495ca6ae8872c61a5df0b1f4030ebf0a",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/android/mipmap-mdpi/ic_launcher_foreground.png": {
+      "bytes": 19065,
+      "sha256": "8f58e56736367c053724343b7ff5677ef78b9e90950b40a5cfa0b65b10aa34fa",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/android/mipmap-mdpi/ic_launcher_round.png": {
+      "bytes": 4119,
+      "sha256": "3c3e82c68ee0d68e59a5cf1d2f744d47dc2d78057912c979d10c879c20a3ff94",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/android/mipmap-xhdpi/ic_launcher.png": {
+      "bytes": 12317,
+      "sha256": "a51278d10a24037862ed6bea861ff35e2b4703fd9812c4429b584abff99e4832",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/android/mipmap-xhdpi/ic_launcher_foreground.png": {
+      "bytes": 60246,
+      "sha256": "1d280f3c19c3e5e75ab03de0c622b9629706489d390fce5c6df56c97f4919971",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/android/mipmap-xhdpi/ic_launcher_round.png": {
+      "bytes": 13296,
+      "sha256": "416f0e60e54c5be8f7726d6558b187638eb1e46c94b50a547a9ab69002e10334",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/android/mipmap-xxhdpi/ic_launcher.png": {
+      "bytes": 24355,
+      "sha256": "fa0962e5149acdb09367e72140d3fda200e953070142ca38da8272d078e6a6bb",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/android/mipmap-xxhdpi/ic_launcher_foreground.png": {
+      "bytes": 113471,
+      "sha256": "b1d2e5f4bd440a30eeae58add9e8bd22e405a20d3640c467d8008a8dcd977e97",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/android/mipmap-xxhdpi/ic_launcher_round.png": {
+      "bytes": 26253,
+      "sha256": "368972209ee13f597aec75f3e1fae617b965ea13b43961d7c61d077afcde0b6f",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/android/mipmap-xxxhdpi/ic_launcher.png": {
+      "bytes": 39873,
+      "sha256": "fbee64316d3ad39897399c3527d761183d6acf3f1bdd7fe4d7588651ed705e10",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/android/mipmap-xxxhdpi/ic_launcher_foreground.png": {
+      "bytes": 175346,
+      "sha256": "672d8e51562b3bce39fa3d706b72889bcc5798ea8643da02410147da92b42b80",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/android/mipmap-xxxhdpi/ic_launcher_round.png": {
+      "bytes": 42661,
+      "sha256": "0a67e0e566ce11e13f82559647a42db85a365df0cbbdebce3c09da58ab0259c7",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/android/values/ic_launcher_background.xml": {
+      "bytes": 118,
+      "sha256": "b1c42868a1777ed1cf61108b506ffc91d0a826318d8516e36cf8f76fab8c4ced",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/icon.icns": {
+      "bytes": 1275514,
+      "sha256": "20bb7982afc3c6550c46f4cf14e7eba0b1438ee1284da2394638867006995573",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/icon.ico": {
+      "bytes": 96673,
+      "sha256": "1ff68fa1376aa2744e0e4ba49f19725a549fefef87cb8b0f1a1fc69c3b47cc34",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/icon.png": {
+      "bytes": 225586,
+      "sha256": "fb2026a3dbbb6ba965bd4a92b06814ade53562eb6481153afac7aaffd37c7b07",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/ios/AppIcon-20x20@1x.png": {
+      "bytes": 1096,
+      "sha256": "cf3582e36c406ac1c66ae3b21027c2a37ac952dfa849227ed336515ac7750a4f",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/ios/AppIcon-20x20@2x-1.png": {
+      "bytes": 3353,
+      "sha256": "2f305ccfaebe54f53533f02cefee28c537779213302d749e5f47f9b5d566cbc2",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/ios/AppIcon-20x20@2x.png": {
+      "bytes": 3353,
+      "sha256": "2f305ccfaebe54f53533f02cefee28c537779213302d749e5f47f9b5d566cbc2",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/ios/AppIcon-20x20@3x.png": {
+      "bytes": 6667,
+      "sha256": "a3f6979e96b7b3b7fd5a76b8daa38157fbb35a7c38f8fe5588f297d7b5055f68",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/ios/AppIcon-29x29@1x.png": {
+      "bytes": 1956,
+      "sha256": "a86f1046ac03dddb9fc5fc9567445e2900dfe0257117314d67123fd1954330d5",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/ios/AppIcon-29x29@2x-1.png": {
+      "bytes": 6315,
+      "sha256": "e9e28959c484bf981678ea8cbae9a9481f2027e295d21b011496f65823fbb80c",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/ios/AppIcon-29x29@2x.png": {
+      "bytes": 6315,
+      "sha256": "e9e28959c484bf981678ea8cbae9a9481f2027e295d21b011496f65823fbb80c",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/ios/AppIcon-29x29@3x.png": {
+      "bytes": 12663,
+      "sha256": "317ead4147cb136763a7663089087c080a17535d866d61ea44801dc485f7e5a4",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/ios/AppIcon-40x40@1x.png": {
+      "bytes": 3353,
+      "sha256": "2f305ccfaebe54f53533f02cefee28c537779213302d749e5f47f9b5d566cbc2",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/ios/AppIcon-40x40@2x-1.png": {
+      "bytes": 10991,
+      "sha256": "7e4ab8a3ee73705fb47cab942ea0c094e903a961c16b1cf7ddfa175277a1ae58",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/ios/AppIcon-40x40@2x.png": {
+      "bytes": 10991,
+      "sha256": "7e4ab8a3ee73705fb47cab942ea0c094e903a961c16b1cf7ddfa175277a1ae58",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/ios/AppIcon-40x40@3x.png": {
+      "bytes": 21942,
+      "sha256": "567703a402187ea7faa7d31439cad6fbd7dbb40be847e70f3fa3fb977be1dd2f",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/ios/AppIcon-512@2x.png": {
+      "bytes": 569232,
+      "sha256": "d6599d81ee2f0e14e284651f89d2cc4a87029e0a8d06bed90d5bfe792cb1fcb7",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/ios/AppIcon-60x60@2x.png": {
+      "bytes": 21942,
+      "sha256": "567703a402187ea7faa7d31439cad6fbd7dbb40be847e70f3fa3fb977be1dd2f",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/ios/AppIcon-60x60@3x.png": {
+      "bytes": 43181,
+      "sha256": "189dc621c3e6da7170d08beca1ef735a66e5c89de8cb65deed028432f64065dc",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/ios/AppIcon-76x76@1x.png": {
+      "bytes": 10017,
+      "sha256": "88a85e0f5dad7f332264de1e76ad965ee982dd4112e76fd259bae0ac1fe5323a",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/ios/AppIcon-76x76@2x.png": {
+      "bytes": 32757,
+      "sha256": "562442bd1290be67b88fbb585f49063e43080f8f327d014fe10f155d637e4fb8",
+      "baseline": "unchanged"
+    },
+    "src-tauri/icons/ios/AppIcon-83.5x83.5@2x.png": {
+      "bytes": 38145,
+      "sha256": "30011e43117753e749bf86d6a085610fd277c275feda52468d127bc5340424dd",
+      "baseline": "unchanged"
+    },
+    "src-tauri/src/lib.rs": {
+      "bytes": 8758,
+      "sha256": "87476f3b34e83c91a46efefe8d750863f82f42af2b1ca81303b0c4c1af120ce0",
+      "baseline": "modified"
+    },
+    "src-tauri/src/main.rs": {
+      "bytes": 128,
+      "sha256": "2b90e248c305e85c9322eea2b1e150c187f35a69d3c34e582ef5a12ef70af74a",
+      "baseline": "unchanged"
+    },
+    "src-tauri/src/native.rs": {
+      "bytes": 1817,
+      "sha256": "c04abfbbf80a52e9d303c09d61841236f417562add87f6caffae6117e6671bb3",
+      "baseline": "unchanged"
+    },
+    "src-tauri/tauri.conf.json": {
+      "bytes": 504,
+      "sha256": "ffcf1b1a4d5e03cfaa6da64acbcd16c4db281bad3748bcc1fa55ff6b40952127",
+      "baseline": "modified"
+    },
+    "tests/legacy-frontend-tests.mjs": {
+      "bytes": 4575,
+      "sha256": "ccbf553032390c5208f567a194e615a188a263fdc39c2e4dfb360b1a885892f4",
+      "baseline": "new"
+    },
+    "tests/legacy-launch-tests.mjs": {
+      "bytes": 3324,
+      "sha256": "a6589faf22752121c856d09f9f5bb445b5e63dae668608a889f86fc73808abea",
+      "baseline": "new"
+    },
+    "tests/release.test.mjs": {
+      "bytes": 4909,
+      "sha256": "18cd03ab351e73f86b76f684adf4e6608f5c09e60f892ad71977371cccec8285",
+      "baseline": "new"
+    },
+    "ui/app.css": {
+      "bytes": 12949,
+      "sha256": "e80e9251fa4e2a06b7b0f6622bf6ea59b6393878a66fed5aa78abde0318eff7b",
+      "baseline": "modified"
+    },
+    "ui/data/nifty50.json": {
+      "bytes": 6411,
+      "sha256": "0313d58e645b92c55ae38ad9a804fc55ec90ee2dddc3f69531b17be510dcb69d",
+      "baseline": "unchanged"
+    },
+    "ui/data/niftybank.json": {
+      "bytes": 1861,
+      "sha256": "a5f3652c1461fee45518df466cc9e04a4a1a5b30830668fc9fc8a0d042299591",
+      "baseline": "unchanged"
+    },
+    "ui/data/niftyit.json": {
+      "bytes": 1403,
+      "sha256": "031773534d5ec1827e73ed1e1719b33b09b64d7ebf6b4d633b278206e767037a",
+      "baseline": "unchanged"
+    },
+    "ui/data/niftynext50.json": {
+      "bytes": 6374,
+      "sha256": "442eacec4a71088c526a3a940ea5e01972155383814fb82d050b951c2fc5cc61",
+      "baseline": "unchanged"
+    },
+    "ui/data/sensex.json": {
+      "bytes": 3135,
+      "sha256": "d26cb6a0eb4fa13327eaace1f14d3b646da13b53e44040b86d8db95886bfd876",
+      "baseline": "unchanged"
+    },
+    "ui/data/sp500.json": {
+      "bytes": 53589,
+      "sha256": "4616b2706d5798685c88858da1bf3a6015b4128530b419adc360695e3782bafe",
+      "baseline": "unchanged"
+    },
+    "ui/index.html": {
+      "bytes": 24521,
+      "sha256": "8f8b60b19664fe18437f4202987732dcdf9f07aecc13b4cfa023727ce325876e",
+      "baseline": "modified"
+    },
+    "ui/src/app.js": {
+      "bytes": 77627,
+      "sha256": "cd56895b7a8cc9469648065355e9ea8447e5321940f861d8d534d8f4e671b192",
+      "baseline": "modified"
+    },
+    "ui/src/market-data.js": {
+      "bytes": 6894,
+      "sha256": "342fe4349907d8646b43be443226315b3696b7b7489b423416b8d224a11269ec",
+      "baseline": "unchanged"
+    },
+    "ui/src/market-ui.js": {
+      "bytes": 12815,
+      "sha256": "ffb8551baf3f5bb17bf3fbcaea2c025241338400387efe2a03164b1a3acae4a0",
+      "baseline": "modified"
+    },
+    "ui/src/news-ui.js": {
+      "bytes": 2209,
+      "sha256": "f410eb400088475802fa6a39c2ee88a4c304edfff254e397647c2b21a5a30c3f",
+      "baseline": "new"
+    },
+    "ui/src/seed.js": {
+      "bytes": 2414,
+      "sha256": "f508151f2d4e186cabc51ce380261b781acd2e25c2bc2b9a3e716ff90e86589b",
+      "baseline": "unchanged"
+    },
+    "ui/src/settings-navigation.js": {
+      "bytes": 1316,
+      "sha256": "4321729662df829f7afe4056ee395f8aa297f16fb6a300d3f9fa87a799e9260b",
+      "baseline": "unchanged"
+    },
+    "ui/src/source-discovery.js": {
+      "bytes": 2992,
+      "sha256": "1d5ddc2787f5eef2c87b7dc594f6cac68a015cddd73f9d3c74da4c77efc6e4d8",
+      "baseline": "unchanged"
+    },
+    "ui/vendor/bootstrap.min.css": {
+      "bytes": 232803,
+      "sha256": "3c8f27e6009ccfd710a905e6dcf12d0ee3c6f2ac7da05b0572d3e0d12e736fc8",
+      "baseline": "unchanged"
+    },
+    "vce-core/Cargo.toml": {
+      "bytes": 213,
+      "sha256": "63a6a6065ea641ab2f958b05052a4c9efe07302e98c84bebde3dcc2bf1574d7c",
+      "baseline": "unchanged"
+    },
+    "vce-core/seed/content.json": {
+      "bytes": 100173,
+      "sha256": "a5d8c6947aa58a7a0f5df58c77026ea6b1548e9f73e481377866b86343f45c4d",
+      "baseline": "modified"
+    },
+    "vce-core/seed/geo-facts.json": {
+      "bytes": 15415,
+      "sha256": "8940c356fde43fbcb7e0fb073fb40d60157c1ec4023bbc096a1ab1c72735fca8",
+      "baseline": "unchanged"
+    },
+    "vce-core/seed/phrasebook.json": {
+      "bytes": 984,
+      "sha256": "d0711b1555f0421c53ef737782718c0f2357a27a5fe0c896d5fd81a1b2b9bbce",
+      "baseline": "unchanged"
+    },
+    "vce-core/seed/sources.json": {
+      "bytes": 6513,
+      "sha256": "19f41892429fa64e045e7e91f1fc5863e57fb77320c1c05a9649ba983ea09efe",
+      "baseline": "modified"
+    },
+    "vce-core/src/assistant.rs": {
+      "bytes": 46672,
+      "sha256": "950a7d635bbf88428fd92678662dbcce53cf2ea12f0971d8409d34dfaa0b601e",
+      "baseline": "modified"
+    },
+    "vce-core/src/consent.rs": {
+      "bytes": 1181,
+      "sha256": "f76f9e70d335c4173a27f1fb8b52c36b1d260d8b82e79d3dac2e29ca3d29b7bc",
+      "baseline": "unchanged"
+    },
+    "vce-core/src/engine.rs": {
+      "bytes": 6658,
+      "sha256": "adbe77dba201998eec206a83423d90de54fa299a6775d7800a9f5fdf88451e7f",
+      "baseline": "unchanged"
+    },
+    "vce-core/src/learn.rs": {
+      "bytes": 7078,
+      "sha256": "022b4ddce66f5eda9596100a74520403a04cfe0bdc68c628cb25572f33b3321a",
+      "baseline": "unchanged"
+    },
+    "vce-core/src/ledger.rs": {
+      "bytes": 12577,
+      "sha256": "94d56fc7a2aa5af27846ec2993055ab5e754cbfe238a3558ed06d61dce5e3f0e",
+      "baseline": "unchanged"
+    },
+    "vce-core/src/lib.rs": {
+      "bytes": 518,
+      "sha256": "ea048ab2d462aee72564e4d5501f515a77f1872cd8cadcabc64bf3b4ad81746b",
+      "baseline": "unchanged"
+    },
+    "vce-core/src/llm.rs": {
+      "bytes": 1877,
+      "sha256": "75fc4610274be5dc6e36b4ed3aaf89077cf1ac5f12ce74a15345dbdc92a3e87b",
+      "baseline": "unchanged"
+    },
+    "vce-core/src/platform.rs": {
+      "bytes": 3685,
+      "sha256": "4dd18fb74543443e04c19bd4d744f3da571d088de14f5cd17f5fffbbc3dc3c71",
+      "baseline": "unchanged"
+    },
+    "vce-core/src/profile.rs": {
+      "bytes": 682,
+      "sha256": "2c3affc5b85a0836e7b7ec8a310476cd1824cc0bd4268e0d2e0346df8f947b68",
+      "baseline": "unchanged"
+    },
+    "vce-core/src/rag.rs": {
+      "bytes": 4601,
+      "sha256": "d49131cb5f13da08ed90f85a5908fc787afafcf0689ee6cc4f169134b69eabd2",
+      "baseline": "unchanged"
+    },
+    "vce-core/src/safety.rs": {
+      "bytes": 3906,
+      "sha256": "1bfaadc38119c3292d845ae24e4d34879af63292ab8f6054ba964ba5503a829b",
+      "baseline": "unchanged"
+    },
+    "vce-core/src/sources.rs": {
+      "bytes": 24510,
+      "sha256": "7675146529c812f915d462388c1a33b46a1cbdeb45e3c1422582a4c694e42297",
+      "baseline": "modified"
+    },
+    "vce-core/src/values.rs": {
+      "bytes": 2785,
+      "sha256": "68d06487e5707395821182e098e94dec2e8552df1fa4b77762319e8c436c179e",
+      "baseline": "unchanged"
+    },
+    "vce-core/src/vault.rs": {
+      "bytes": 4796,
+      "sha256": "e84aa8fd29706eaf5ab8dfa4616868a278660eeb1f61ad6c0f90d4f5b9616111",
+      "baseline": "unchanged"
+    },
+    "vce-core/src/voice.rs": {
+      "bytes": 5156,
+      "sha256": "f0db8c4d22dbc8f65325992c8bb28850b5e397da8ff9e9c169d150f46c5599bb",
+      "baseline": "unchanged"
+    }
+  }
+}

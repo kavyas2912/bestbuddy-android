@@ -1,0 +1,257 @@
+{
+  "members": [
+    {
+      "name": "ABB India Ltd.",
+      "symbol": "ABB.NS",
+      "sector": "Capital Goods"
+    },
+    {
+      "name": "Adani Energy Solutions Ltd.",
+      "symbol": "ADANIENSOL.NS",
+      "sector": "Power"
+    },
+    {
+      "name": "Adani Green Energy Ltd.",
+      "symbol": "ADANIGREEN.NS",
+      "sector": "Power"
+    },
+    {
+      "name": "Adani Power Ltd.",
+      "symbol": "ADANIPOWER.NS",
+      "sector": "Power"
+    },
+    {
+      "name": "Ambuja Cements Ltd.",
+      "symbol": "AMBUJACEM.NS",
+      "sector": "Construction Materials"
+    },
+    {
+      "name": "Avenue Supermarts Ltd.",
+      "symbol": "DMART.NS",
+      "sector": "Consumer Services"
+    },
+    {
+      "name": "Bajaj Holdings & Investment Ltd.",
+      "symbol": "BAJAJHLDNG.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Bank of Baroda",
+      "symbol": "BANKBARODA.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Bharat Petroleum Corporation Ltd.",
+      "symbol": "BPCL.NS",
+      "sector": "Oil Gas & Consumable Fuels"
+    },
+    {
+      "name": "Bosch Ltd.",
+      "symbol": "BOSCHLTD.NS",
+      "sector": "Automobile and Auto Components"
+    },
+    {
+      "name": "Britannia Industries Ltd.",
+      "symbol": "BRITANNIA.NS",
+      "sector": "Fast Moving Consumer Goods"
+    },
+    {
+      "name": "CG Power and Industrial Solutions Ltd.",
+      "symbol": "CGPOWER.NS",
+      "sector": "Capital Goods"
+    },
+    {
+      "name": "Canara Bank",
+      "symbol": "CANBK.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Cholamandalam Investment and Finance Company Ltd.",
+      "symbol": "CHOLAFIN.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Cummins India Ltd.",
+      "symbol": "CUMMINSIND.NS",
+      "sector": "Capital Goods"
+    },
+    {
+      "name": "DLF Ltd.",
+      "symbol": "DLF.NS",
+      "sector": "Realty"
+    },
+    {
+      "name": "Divi's Laboratories Ltd.",
+      "symbol": "DIVISLAB.NS",
+      "sector": "Healthcare"
+    },
+    {
+      "name": "GAIL (India) Ltd.",
+      "symbol": "GAIL.NS",
+      "sector": "Oil Gas & Consumable Fuels"
+    },
+    {
+      "name": "Godrej Consumer Products Ltd.",
+      "symbol": "GODREJCP.NS",
+      "sector": "Fast Moving Consumer Goods"
+    },
+    {
+      "name": "HDFC Asset Management Company Ltd.",
+      "symbol": "HDFCAMC.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Hindustan Aeronautics Ltd.",
+      "symbol": "HAL.NS",
+      "sector": "Capital Goods"
+    },
+    {
+      "name": "Hindustan Zinc Ltd.",
+      "symbol": "HINDZINC.NS",
+      "sector": "Metals & Mining"
+    },
+    {
+      "name": "Hitachi Energy India Ltd.",
+      "symbol": "POWERINDIA.NS",
+      "sector": "Capital Goods"
+    },
+    {
+      "name": "Hyundai Motor India Ltd.",
+      "symbol": "HYUNDAI.NS",
+      "sector": "Automobile and Auto Components"
+    },
+    {
+      "name": "Indian Oil Corporation Ltd.",
+      "symbol": "IOC.NS",
+      "sector": "Oil Gas & Consumable Fuels"
+    },
+    {
+      "name": "Indian Railway Finance Corporation Ltd.",
+      "symbol": "IRFC.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Jindal Steel Ltd.",
+      "symbol": "JINDALSTEL.NS",
+      "sector": "Metals & Mining"
+    },
+    {
+      "name": "LTM Ltd.",
+      "symbol": "LTM.NS",
+      "sector": "Information Technology"
+    },
+    {
+      "name": "Mazagoan Dock Shipbuilders Ltd.",
+      "symbol": "MAZDOCK.NS",
+      "sector": "Capital Goods"
+    },
+    {
+      "name": "Muthoot Finance Ltd.",
+      "symbol": "MUTHOOTFIN.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Pidilite Industries Ltd.",
+      "symbol": "PIDILITIND.NS",
+      "sector": "Chemicals"
+    },
+    {
+      "name": "Polycab India Ltd.",
+      "symbol": "POLYCAB.NS",
+      "sector": "Capital Goods"
+    },
+    {
+      "name": "Power Finance Corporation Ltd.",
+      "symbol": "PFC.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Punjab National Bank",
+      "symbol": "PNB.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Samvardhana Motherson International Ltd.",
+      "symbol": "MOTHERSON.NS",
+      "sector": "Automobile and Auto Components"
+    },
+    {
+      "name": "Siemens Energy India Ltd.",
+      "symbol": "ENRIN.NS",
+      "sector": "Capital Goods"
+    },
+    {
+      "name": "Siemens Ltd.",
+      "symbol": "SIEMENS.NS",
+      "sector": "Capital Goods"
+    },
+    {
+      "name": "Solar Industries India Ltd.",
+      "symbol": "SOLARINDS.NS",
+      "sector": "Chemicals"
+    },
+    {
+      "name": "TVS Motor Company Ltd.",
+      "symbol": "TVSMOTOR.NS",
+      "sector": "Automobile and Auto Components"
+    },
+    {
+      "name": "Tata Capital Ltd.",
+      "symbol": "TATACAP.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Tata Motors Ltd.",
+      "symbol": "TMCV.NS",
+      "sector": "Capital Goods"
+    },
+    {
+      "name": "Tata Power Co. Ltd.",
+      "symbol": "TATAPOWER.NS",
+      "sector": "Power"
+    },
+    {
+      "name": "Torrent Pharmaceuticals Ltd.",
+      "symbol": "TORNTPHARM.NS",
+      "sector": "Healthcare"
+    },
+    {
+      "name": "Union Bank of India",
+      "symbol": "UNIONBANK.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Varun Beverages Ltd.",
+      "symbol": "VBL.NS",
+      "sector": "Fast Moving Consumer Goods"
+    },
+    {
+      "name": "Vedanta Aluminium Metal Ltd.",
+      "symbol": "VAML.NS",
+      "sector": "Metals & Mining"
+    },
+    {
+      "name": "Vedanta Ltd.",
+      "symbol": "VEDL.NS",
+      "sector": "Metals & Mining"
+    },
+    {
+      "name": "Vodafone Idea Ltd.",
+      "symbol": "IDEA.NS",
+      "sector": "Telecommunication"
+    },
+    {
+      "name": "Wipro Ltd.",
+      "symbol": "WIPRO.NS",
+      "sector": "Information Technology"
+    },
+    {
+      "name": "Zydus Lifesciences Ltd.",
+      "symbol": "ZYDUSLIFE.NS",
+      "sector": "Healthcare"
+    }
+  ],
+  "source": "https://www.niftyindices.com/IndexConstituent/ind_niftynext50list.csv",
+  "retrieved": "2026-10-28",
+  "referenceOnly": false
+}
