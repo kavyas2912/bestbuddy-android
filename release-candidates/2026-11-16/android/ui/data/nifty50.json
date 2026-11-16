@@ -1,0 +1,257 @@
+{
+  "members": [
+    {
+      "name": "Adani Enterprises Ltd.",
+      "symbol": "ADANIENT.NS",
+      "sector": "Metals & Mining"
+    },
+    {
+      "name": "Adani Ports and Special Economic Zone Ltd.",
+      "symbol": "ADANIPORTS.NS",
+      "sector": "Services"
+    },
+    {
+      "name": "Apollo Hospitals Enterprise Ltd.",
+      "symbol": "APOLLOHOSP.NS",
+      "sector": "Healthcare"
+    },
+    {
+      "name": "Asian Paints Ltd.",
+      "symbol": "ASIANPAINT.NS",
+      "sector": "Consumer Durables"
+    },
+    {
+      "name": "Axis Bank Ltd.",
+      "symbol": "AXISBANK.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "BSE Ltd.",
+      "symbol": "BSE.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Bajaj Auto Ltd.",
+      "symbol": "BAJAJ-AUTO.NS",
+      "sector": "Automobile and Auto Components"
+    },
+    {
+      "name": "Bajaj Finance Ltd.",
+      "symbol": "BAJFINANCE.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Bajaj Finserv Ltd.",
+      "symbol": "BAJAJFINSV.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Bharat Electronics Ltd.",
+      "symbol": "BEL.NS",
+      "sector": "Capital Goods"
+    },
+    {
+      "name": "Bharti Airtel Ltd.",
+      "symbol": "BHARTIARTL.NS",
+      "sector": "Telecommunication"
+    },
+    {
+      "name": "Cipla Ltd.",
+      "symbol": "CIPLA.NS",
+      "sector": "Healthcare"
+    },
+    {
+      "name": "Coal India Ltd.",
+      "symbol": "COALINDIA.NS",
+      "sector": "Oil Gas & Consumable Fuels"
+    },
+    {
+      "name": "Dr. Reddy's Laboratories Ltd.",
+      "symbol": "DRREDDY.NS",
+      "sector": "Healthcare"
+    },
+    {
+      "name": "Eicher Motors Ltd.",
+      "symbol": "EICHERMOT.NS",
+      "sector": "Automobile and Auto Components"
+    },
+    {
+      "name": "Eternal Ltd.",
+      "symbol": "ETERNAL.NS",
+      "sector": "Consumer Services"
+    },
+    {
+      "name": "Grasim Industries Ltd.",
+      "symbol": "GRASIM.NS",
+      "sector": "Construction Materials"
+    },
+    {
+      "name": "HCL Technologies Ltd.",
+      "symbol": "HCLTECH.NS",
+      "sector": "Information Technology"
+    },
+    {
+      "name": "HDFC Bank Ltd.",
+      "symbol": "HDFCBANK.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "HDFC Life Insurance Company Ltd.",
+      "symbol": "HDFCLIFE.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Hindalco Industries Ltd.",
+      "symbol": "HINDALCO.NS",
+      "sector": "Metals & Mining"
+    },
+    {
+      "name": "Hindustan Unilever Ltd.",
+      "symbol": "HINDUNILVR.NS",
+      "sector": "Fast Moving Consumer Goods"
+    },
+    {
+      "name": "ICICI Bank Ltd.",
+      "symbol": "ICICIBANK.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "ITC Ltd.",
+      "symbol": "ITC.NS",
+      "sector": "Fast Moving Consumer Goods"
+    },
+    {
+      "name": "Infosys Ltd.",
+      "symbol": "INFY.NS",
+      "sector": "Information Technology"
+    },
+    {
+      "name": "InterGlobe Aviation Ltd.",
+      "symbol": "INDIGO.NS",
+      "sector": "Services"
+    },
+    {
+      "name": "JSW Steel Ltd.",
+      "symbol": "JSWSTEEL.NS",
+      "sector": "Metals & Mining"
+    },
+    {
+      "name": "Jio Financial Services Ltd.",
+      "symbol": "JIOFIN.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Kotak Mahindra Bank Ltd.",
+      "symbol": "KOTAKBANK.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Larsen & Toubro Ltd.",
+      "symbol": "LT.NS",
+      "sector": "Construction"
+    },
+    {
+      "name": "Mahindra & Mahindra Ltd.",
+      "symbol": "M&M.NS",
+      "sector": "Automobile and Auto Components"
+    },
+    {
+      "name": "Maruti Suzuki India Ltd.",
+      "symbol": "MARUTI.NS",
+      "sector": "Automobile and Auto Components"
+    },
+    {
+      "name": "Max Healthcare Institute Ltd.",
+      "symbol": "MAXHEALTH.NS",
+      "sector": "Healthcare"
+    },
+    {
+      "name": "NTPC Ltd.",
+      "symbol": "NTPC.NS",
+      "sector": "Power"
+    },
+    {
+      "name": "Nestle India Ltd.",
+      "symbol": "NESTLEIND.NS",
+      "sector": "Fast Moving Consumer Goods"
+    },
+    {
+      "name": "Oil & Natural Gas Corporation Ltd.",
+      "symbol": "ONGC.NS",
+      "sector": "Oil Gas & Consumable Fuels"
+    },
+    {
+      "name": "Power Grid Corporation of India Ltd.",
+      "symbol": "POWERGRID.NS",
+      "sector": "Power"
+    },
+    {
+      "name": "Reliance Industries Ltd.",
+      "symbol": "RELIANCE.NS",
+      "sector": "Oil Gas & Consumable Fuels"
+    },
+    {
+      "name": "SBI Life Insurance Company Ltd.",
+      "symbol": "SBILIFE.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Shriram Finance Ltd.",
+      "symbol": "SHRIRAMFIN.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "State Bank of India",
+      "symbol": "SBIN.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Sun Pharmaceutical Industries Ltd.",
+      "symbol": "SUNPHARMA.NS",
+      "sector": "Healthcare"
+    },
+    {
+      "name": "Tata Consultancy Services Ltd.",
+      "symbol": "TCS.NS",
+      "sector": "Information Technology"
+    },
+    {
+      "name": "Tata Consumer Products Ltd.",
+      "symbol": "TATACONSUM.NS",
+      "sector": "Fast Moving Consumer Goods"
+    },
+    {
+      "name": "Tata Motors Passenger Vehicles Ltd.",
+      "symbol": "TMPV.NS",
+      "sector": "Automobile and Auto Components"
+    },
+    {
+      "name": "Tata Steel Ltd.",
+      "symbol": "TATASTEEL.NS",
+      "sector": "Metals & Mining"
+    },
+    {
+      "name": "Tech Mahindra Ltd.",
+      "symbol": "TECHM.NS",
+      "sector": "Information Technology"
+    },
+    {
+      "name": "Titan Company Ltd.",
+      "symbol": "TITAN.NS",
+      "sector": "Consumer Durables"
+    },
+    {
+      "name": "Trent Ltd.",
+      "symbol": "TRENT.NS",
+      "sector": "Consumer Services"
+    },
+    {
+      "name": "UltraTech Cement Ltd.",
+      "symbol": "ULTRACEMCO.NS",
+      "sector": "Construction Materials"
+    }
+  ],
+  "source": "https://www.niftyindices.com/IndexConstituent/ind_nifty50list.csv",
+  "retrieved": "2026-10-28",
+  "referenceOnly": false
+}

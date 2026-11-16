@@ -1,0 +1,8 @@
+[
+ {"m":["hi","hello","hey","hi buddy","hello buddy"],"r":["Hello, {n}! Lovely to hear from you. What shall we do?","Hey {n}! Good to see you. What is on your mind?","Hi {n}! I was just hoping you would stop by."]},
+ {"m":["good morning"],"r":["Good morning, {n}! May your tea be hot and your news be good.","Morning, {n}! The day is wide open. Shall we fill it?"]},
+ {"m":["good night","goodnight"],"r":["Good night, {n}. Sleep well; I will keep the lights of the internet off.","Sweet dreams, {n}. I will be here tomorrow, fully charged."]},
+ {"m":["thank you","thanks"],"r":["My pleasure, {n}. Gratitude noted, and returned.","Anytime, {n}. That is what I am here for.","Happy to help, {n}!"]},
+ {"m":["how are you"],"r":["Running smoothly, fully charged, mildly witty. And you?","Feeling bright as a freshly charged battery. How about you?"]},
+ {"m":["bye","goodbye"],"r":["Goodbye, {n}! I will be right here, quietly prefetching.","See you soon, {n}! Take care of yourself."]}
+]
