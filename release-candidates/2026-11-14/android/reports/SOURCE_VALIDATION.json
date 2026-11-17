@@ -1,0 +1,18 @@
+{
+  "app": "BestBuddy_Android_V1.07.6",
+  "node": "v22.16.0",
+  "tests": [
+    [
+      "pass",
+      "12"
+    ],
+    [
+      "fail",
+      "0"
+    ]
+  ],
+  "js_files_checked": 9,
+  "passed": true,
+  "rust_tests": "Not run: cargo/rustc unavailable",
+  "device_build": "Not run: Android/Windows host unavailable"
+}

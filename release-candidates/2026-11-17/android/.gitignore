@@ -1,0 +1,7 @@
+
+# Included assets are restored from DEFAULT_RESOURCES.json; keep immutable copies out of Git.
+bundled-resources/
+bundled-defaults/
+vendor/
+.resource-cache/
+ios-evidence/

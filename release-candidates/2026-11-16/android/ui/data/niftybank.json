@@ -1,0 +1,77 @@
+{
+  "members": [
+    {
+      "name": "AU Small Finance Bank Ltd.",
+      "symbol": "AUBANK.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Axis Bank Ltd.",
+      "symbol": "AXISBANK.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Bank of Baroda",
+      "symbol": "BANKBARODA.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Canara Bank",
+      "symbol": "CANBK.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Federal Bank Ltd.",
+      "symbol": "FEDERALBNK.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "HDFC Bank Ltd.",
+      "symbol": "HDFCBANK.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "ICICI Bank Ltd.",
+      "symbol": "ICICIBANK.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "IDFC First Bank Ltd.",
+      "symbol": "IDFCFIRSTB.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "IndusInd Bank Ltd.",
+      "symbol": "INDUSINDBK.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Kotak Mahindra Bank Ltd.",
+      "symbol": "KOTAKBANK.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Punjab National Bank",
+      "symbol": "PNB.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "State Bank of India",
+      "symbol": "SBIN.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Union Bank of India",
+      "symbol": "UNIONBANK.NS",
+      "sector": "Financial Services"
+    },
+    {
+      "name": "Yes Bank Ltd.",
+      "symbol": "YESBANK.NS",
+      "sector": "Financial Services"
+    }
+  ],
+  "source": "https://www.niftyindices.com/IndexConstituent/ind_niftybanklist.csv",
+  "retrieved": "2026-10-28",
+  "referenceOnly": false
+}

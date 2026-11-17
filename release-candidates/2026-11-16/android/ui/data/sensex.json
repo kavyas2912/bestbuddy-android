@@ -1,0 +1,157 @@
+{
+  "members": [
+    {
+      "name": "Adani Ports & SEZ",
+      "symbol": "ADANIPORTS.BO",
+      "sector": "Ports"
+    },
+    {
+      "name": "Asian Paints",
+      "symbol": "ASIANPAINT.BO",
+      "sector": "Consumer Durables"
+    },
+    {
+      "name": "Axis Bank",
+      "symbol": "AXISBANK.BO",
+      "sector": "Banks"
+    },
+    {
+      "name": "Bajaj Finance",
+      "symbol": "BAJFINANCE.BO",
+      "sector": "Finance"
+    },
+    {
+      "name": "Bajaj Finserv",
+      "symbol": "BAJAJFINSV.BO",
+      "sector": "Finance"
+    },
+    {
+      "name": "Bharat Electronics",
+      "symbol": "BEL.BO",
+      "sector": "Aerospace & Defence"
+    },
+    {
+      "name": "Bharti Airtel",
+      "symbol": "BHARTIARTL.BO",
+      "sector": "Telecommunication"
+    },
+    {
+      "name": "Eternal",
+      "symbol": "ETERNAL.BO",
+      "sector": "Retailing"
+    },
+    {
+      "name": "HCLTech",
+      "symbol": "HCLTECH.BO",
+      "sector": "IT"
+    },
+    {
+      "name": "HDFC Bank",
+      "symbol": "HDFCBANK.BO",
+      "sector": "Banks"
+    },
+    {
+      "name": "Hindustan Unilever",
+      "symbol": "HINDUNILVR.BO",
+      "sector": "FMCG"
+    },
+    {
+      "name": "ICICI Bank",
+      "symbol": "ICICIBANK.BO",
+      "sector": "Banks"
+    },
+    {
+      "name": "IndiGo",
+      "symbol": "INDIGO.BO",
+      "sector": "Airlines"
+    },
+    {
+      "name": "Infosys",
+      "symbol": "INFY.BO",
+      "sector": "IT"
+    },
+    {
+      "name": "ITC",
+      "symbol": "ITC.BO",
+      "sector": "FMCG"
+    },
+    {
+      "name": "Kotak Mahindra Bank",
+      "symbol": "KOTAKBANK.BO",
+      "sector": "Banks"
+    },
+    {
+      "name": "Larsen & Toubro",
+      "symbol": "LT.BO",
+      "sector": "Construction"
+    },
+    {
+      "name": "Mahindra & Mahindra",
+      "symbol": "M&M.BO",
+      "sector": "Automobiles"
+    },
+    {
+      "name": "Maruti Suzuki",
+      "symbol": "MARUTI.BO",
+      "sector": "Automobiles"
+    },
+    {
+      "name": "NTPC",
+      "symbol": "NTPC.BO",
+      "sector": "Power"
+    },
+    {
+      "name": "Power Grid",
+      "symbol": "POWERGRID.BO",
+      "sector": "Power"
+    },
+    {
+      "name": "Reliance Industries",
+      "symbol": "RELIANCE.BO",
+      "sector": "Petroleum"
+    },
+    {
+      "name": "State Bank of India",
+      "symbol": "SBIN.BO",
+      "sector": "Banks"
+    },
+    {
+      "name": "Sun Pharma",
+      "symbol": "SUNPHARMA.BO",
+      "sector": "Pharmaceuticals"
+    },
+    {
+      "name": "Tata Consultancy Services",
+      "symbol": "TCS.BO",
+      "sector": "IT"
+    },
+    {
+      "name": "Tata Steel",
+      "symbol": "TATASTEEL.BO",
+      "sector": "Metals"
+    },
+    {
+      "name": "Tech Mahindra",
+      "symbol": "TECHM.BO",
+      "sector": "IT"
+    },
+    {
+      "name": "Titan Company",
+      "symbol": "TITAN.BO",
+      "sector": "Consumer Durables"
+    },
+    {
+      "name": "Trent",
+      "symbol": "TRENT.BO",
+      "sector": "Retailing"
+    },
+    {
+      "name": "UltraTech Cement",
+      "symbol": "ULTRACEMCO.BO",
+      "sector": "Cement"
+    }
+  ],
+  "source": "https://en.wikipedia.org/wiki/BSE_SENSEX",
+  "retrieved": "2026-10-28",
+  "referenceOnly": true
+}

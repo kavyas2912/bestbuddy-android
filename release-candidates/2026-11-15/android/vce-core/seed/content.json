@@ -1,0 +1,2764 @@
+[
+  {
+    "id": "j1",
+    "family": "joke",
+    "topic": "tech",
+    "text": "Why was the computer cold? It left its Windows open.",
+    "source": "seed"
+  },
+  {
+    "id": "j2",
+    "family": "joke",
+    "topic": "food",
+    "text": "Why do eggs never tell jokes? They would crack each other up.",
+    "source": "seed"
+  },
+  {
+    "id": "j3",
+    "family": "joke",
+    "topic": "life",
+    "text": "I told my suitcase there would be no vacation this year. Now I am dealing with emotional baggage.",
+    "source": "seed"
+  },
+  {
+    "id": "f1",
+    "family": "fact",
+    "topic": "animals",
+    "text": "Octopuses have three hearts and blue blood.",
+    "source": "seed"
+  },
+  {
+    "id": "f2",
+    "family": "fact",
+    "topic": "space",
+    "text": "A day on Venus is longer than a year on Venus.",
+    "source": "seed"
+  },
+  {
+    "id": "f3",
+    "family": "fact",
+    "topic": "food",
+    "text": "Honey found in ancient Egyptian tombs was reportedly still edible after thousands of years.",
+    "source": "seed"
+  },
+  {
+    "id": "f4",
+    "family": "fact",
+    "topic": "places",
+    "text": "The Eiffel Tower grows a few centimetres taller in summer because heat expands its iron.",
+    "source": "seed"
+  },
+  {
+    "id": "s1",
+    "family": "story",
+    "topic": "wisdom",
+    "text": "An old fable tells of a speedy hare who laughed at a slow tortoise and challenged him to a race. The hare napped halfway; the tortoise kept walking and won. Slow and steady can beat fast and careless.",
+    "source": "Aesop (public domain)"
+  },
+  {
+    "id": "s2",
+    "family": "story",
+    "topic": "patience",
+    "text": "In another of Aesop's fables, a thirsty crow found a pitcher with too little water to reach. He dropped in pebbles one by one until the water rose, and then he drank. Patience and cleverness solve problems.",
+    "source": "Aesop (public domain)"
+  },
+  {
+    "id": "a1",
+    "family": "anecdote",
+    "topic": "maths",
+    "text": "The mathematician G. H. Hardy once told the ailing Ramanujan that his taxi number, 1729, seemed dull. Ramanujan replied that it is the smallest number expressible as a sum of two cubes in two different ways.",
+    "source": "seed"
+  },
+  {
+    "id": "a2",
+    "family": "anecdote",
+    "topic": "business",
+    "text": "Amazon began in 1994 as an online bookstore run from Jeff Bezos's garage.",
+    "source": "seed"
+  },
+  {
+    "id": "q1",
+    "family": "question",
+    "topic": "music",
+    "text": "What kind of music puts you in a good mood?",
+    "source": "seed"
+  },
+  {
+    "id": "q2",
+    "family": "question",
+    "topic": "food",
+    "text": "What is a dish that reminds you of home?",
+    "source": "seed"
+  },
+  {
+    "id": "q3",
+    "family": "question",
+    "topic": "hobbies",
+    "text": "What do you love doing on a free afternoon?",
+    "source": "seed"
+  },
+  {
+    "id": "q4",
+    "family": "question",
+    "topic": "travel",
+    "text": "If you could visit anywhere tomorrow, where would it be?",
+    "source": "seed"
+  },
+  {
+    "id": "q5",
+    "family": "question",
+    "topic": "movies",
+    "text": "Is there an old movie you could watch again and again?",
+    "source": "seed"
+  },
+  {
+    "id": "v175-story-001",
+    "family": "story",
+    "topic": "patience",
+    "text": "At the hill village, a lost umbrella caused a small commotion. A visitor asked an elderly neighbor for advice, and together the neighbors found a way forward. A little patience turned a problem into a shared success.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-002",
+    "family": "story",
+    "topic": "teamwork",
+    "text": "At a riverside school, a broken clock caused a small commotion. A visitor listened carefully before responding, and together the neighbors found a way forward. A small act of kindness changed the afternoon.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-003",
+    "family": "story",
+    "topic": "kindness",
+    "text": "At a crowded station, a paper boat caused a small commotion. A visitor drew a small plan, and together the neighbors found a way forward. The work took longer, but everyone felt included.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-004",
+    "family": "story",
+    "topic": "curiosity",
+    "text": "At a quiet library, a misplaced notebook caused a small commotion. A visitor invited a stranger to help, and together the neighbors found a way forward. The day ended with a new friendship.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-005",
+    "family": "story",
+    "topic": "learning",
+    "text": "At the coastal town, a faded sign caused a small commotion. A visitor checked the details twice, and together the neighbors found a way forward. The simplest solution came from working together.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-006",
+    "family": "story",
+    "topic": "patience",
+    "text": "At the mountain trail, a tiny seedling caused a small commotion. A visitor shared the tools they had, and together the neighbors found a way forward. The right question proved more useful than a clever guess.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-007",
+    "family": "story",
+    "topic": "teamwork",
+    "text": "At an old bookshop, a unclaimed parcel caused a small commotion. A visitor made room for someone new, and together the neighbors found a way forward. They solved it without blaming anyone.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-008",
+    "family": "story",
+    "topic": "kindness",
+    "text": "At the village market, a untuned violin caused a small commotion. A visitor worked patiently through the problem, and together the neighbors found a way forward. Careful listening mattered more than a quick answer.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-009",
+    "family": "story",
+    "topic": "curiosity",
+    "text": "At a busy workshop, a wobbly stool caused a small commotion. A visitor stopped to ask a thoughtful question, and together the neighbors found a way forward. The discovery was worth more than the original plan.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-010",
+    "family": "story",
+    "topic": "learning",
+    "text": "At the neighborhood garden, a forgotten recipe caused a small commotion. A visitor offered to learn from an earlier mistake, and together the neighbors found a way forward. What looked like a setback became a pleasant surprise.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-011",
+    "family": "story",
+    "topic": "patience",
+    "text": "At a music classroom, a torn map caused a small commotion. A visitor asked an elderly neighbor for advice, and together the neighbors found a way forward. A little patience turned a problem into a shared success.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-012",
+    "family": "story",
+    "topic": "teamwork",
+    "text": "At the lighthouse, a dull lantern caused a small commotion. A visitor listened carefully before responding, and together the neighbors found a way forward. A small act of kindness changed the afternoon.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-013",
+    "family": "story",
+    "topic": "kindness",
+    "text": "At the public square, a missing ticket caused a small commotion. A visitor drew a small plan, and together the neighbors found a way forward. The work took longer, but everyone felt included.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-014",
+    "family": "story",
+    "topic": "curiosity",
+    "text": "At a little bakery, a lopsided cake caused a small commotion. A visitor invited a stranger to help, and together the neighbors found a way forward. The day ended with a new friendship.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-015",
+    "family": "story",
+    "topic": "learning",
+    "text": "At the community kitchen, a empty shelf caused a small commotion. A visitor checked the details twice, and together the neighbors found a way forward. The simplest solution came from working together.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-016",
+    "family": "story",
+    "topic": "patience",
+    "text": "At a rainy bus stop, a wet newspaper caused a small commotion. A visitor shared the tools they had, and together the neighbors found a way forward. The right question proved more useful than a clever guess.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-017",
+    "family": "story",
+    "topic": "teamwork",
+    "text": "At a chess club, a unfinished puzzle caused a small commotion. A visitor made room for someone new, and together the neighbors found a way forward. They solved it without blaming anyone.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-018",
+    "family": "story",
+    "topic": "kindness",
+    "text": "At the farmers market, a uneven weighing scale caused a small commotion. A visitor worked patiently through the problem, and together the neighbors found a way forward. Careful listening mattered more than a quick answer.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-019",
+    "family": "story",
+    "topic": "curiosity",
+    "text": "At a pottery studio, a cracked bowl caused a small commotion. A visitor stopped to ask a thoughtful question, and together the neighbors found a way forward. The discovery was worth more than the original plan.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-020",
+    "family": "story",
+    "topic": "learning",
+    "text": "At a bicycle repair shop, a flat tyre caused a small commotion. A visitor offered to learn from an earlier mistake, and together the neighbors found a way forward. What looked like a setback became a pleasant surprise.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-021",
+    "family": "story",
+    "topic": "patience",
+    "text": "At a museum gallery, a unlabeled painting caused a small commotion. A visitor asked an elderly neighbor for advice, and together the neighbors found a way forward. A little patience turned a problem into a shared success.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-022",
+    "family": "story",
+    "topic": "teamwork",
+    "text": "At a fishing harbor, a tangled fishing line caused a small commotion. A visitor listened carefully before responding, and together the neighbors found a way forward. A small act of kindness changed the afternoon.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-023",
+    "family": "story",
+    "topic": "kindness",
+    "text": "At the local theatre, a missing prop caused a small commotion. A visitor drew a small plan, and together the neighbors found a way forward. The work took longer, but everyone felt included.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-024",
+    "family": "story",
+    "topic": "curiosity",
+    "text": "At a small observatory, a fogged telescope caused a small commotion. A visitor invited a stranger to help, and together the neighbors found a way forward. The day ended with a new friendship.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-025",
+    "family": "story",
+    "topic": "learning",
+    "text": "At a town hall, a silent bell caused a small commotion. A visitor checked the details twice, and together the neighbors found a way forward. The simplest solution came from working together.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-026",
+    "family": "story",
+    "topic": "patience",
+    "text": "At an orchard, a leaning sapling caused a small commotion. A visitor shared the tools they had, and together the neighbors found a way forward. The right question proved more useful than a clever guess.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-027",
+    "family": "story",
+    "topic": "teamwork",
+    "text": "At the city park, a unread letter caused a small commotion. A visitor made room for someone new, and together the neighbors found a way forward. They solved it without blaming anyone.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-028",
+    "family": "story",
+    "topic": "kindness",
+    "text": "At a night train, a unreserved seat caused a small commotion. A visitor worked patiently through the problem, and together the neighbors found a way forward. Careful listening mattered more than a quick answer.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-029",
+    "family": "story",
+    "topic": "curiosity",
+    "text": "At a community radio station, a scratchy microphone caused a small commotion. A visitor stopped to ask a thoughtful question, and together the neighbors found a way forward. The discovery was worth more than the original plan.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-030",
+    "family": "story",
+    "topic": "learning",
+    "text": "At a textile workshop, a knotted thread caused a small commotion. A visitor offered to learn from an earlier mistake, and together the neighbors found a way forward. What looked like a setback became a pleasant surprise.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-031",
+    "family": "story",
+    "topic": "patience",
+    "text": "At a hiking shelter, a cold stove caused a small commotion. A visitor asked an elderly neighbor for advice, and together the neighbors found a way forward. A little patience turned a problem into a shared success.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-032",
+    "family": "story",
+    "topic": "teamwork",
+    "text": "At a neighborhood café, a spilled tea caused a small commotion. A visitor listened carefully before responding, and together the neighbors found a way forward. A small act of kindness changed the afternoon.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-033",
+    "family": "story",
+    "topic": "kindness",
+    "text": "At a science fair, a miswired circuit caused a small commotion. A visitor drew a small plan, and together the neighbors found a way forward. The work took longer, but everyone felt included.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-034",
+    "family": "story",
+    "topic": "curiosity",
+    "text": "At the old bridge, a loose floorboard caused a small commotion. A visitor invited a stranger to help, and together the neighbors found a way forward. The day ended with a new friendship.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-035",
+    "family": "story",
+    "topic": "learning",
+    "text": "At a village clinic, a unmarked medicine cabinet caused a small commotion. A visitor checked the details twice, and together the neighbors found a way forward. The simplest solution came from working together.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-036",
+    "family": "story",
+    "topic": "patience",
+    "text": "At a school playground, a lost football caused a small commotion. A visitor shared the tools they had, and together the neighbors found a way forward. The right question proved more useful than a clever guess.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-037",
+    "family": "story",
+    "topic": "teamwork",
+    "text": "At a book festival, a missing page caused a small commotion. A visitor made room for someone new, and together the neighbors found a way forward. They solved it without blaming anyone.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-038",
+    "family": "story",
+    "topic": "kindness",
+    "text": "At a family reunion, a empty photo frame caused a small commotion. A visitor worked patiently through the problem, and together the neighbors found a way forward. Careful listening mattered more than a quick answer.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-039",
+    "family": "story",
+    "topic": "curiosity",
+    "text": "At the city greenhouse, a wilted flower caused a small commotion. A visitor stopped to ask a thoughtful question, and together the neighbors found a way forward. The discovery was worth more than the original plan.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-040",
+    "family": "story",
+    "topic": "learning",
+    "text": "At a lake shore, a drifting rowboat caused a small commotion. A visitor offered to learn from an earlier mistake, and together the neighbors found a way forward. What looked like a setback became a pleasant surprise.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-041",
+    "family": "story",
+    "topic": "patience",
+    "text": "At a street food stall, a over-salted soup caused a small commotion. A visitor asked an elderly neighbor for advice, and together the neighbors found a way forward. A little patience turned a problem into a shared success.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-042",
+    "family": "story",
+    "topic": "teamwork",
+    "text": "At an art studio, a smudged sketch caused a small commotion. A visitor listened carefully before responding, and together the neighbors found a way forward. A small act of kindness changed the afternoon.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-043",
+    "family": "story",
+    "topic": "kindness",
+    "text": "At the morning market, a mixed-up price tag caused a small commotion. A visitor drew a small plan, and together the neighbors found a way forward. The work took longer, but everyone felt included.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-044",
+    "family": "story",
+    "topic": "curiosity",
+    "text": "At a volunteer center, a unpacked donation box caused a small commotion. A visitor invited a stranger to help, and together the neighbors found a way forward. The day ended with a new friendship.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-045",
+    "family": "story",
+    "topic": "learning",
+    "text": "At the mountain village, a torn winter coat caused a small commotion. A visitor checked the details twice, and together the neighbors found a way forward. The simplest solution came from working together.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-046",
+    "family": "story",
+    "topic": "patience",
+    "text": "At the woodworking shed, a blunt chisel caused a small commotion. A visitor shared the tools they had, and together the neighbors found a way forward. The right question proved more useful than a clever guess.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-047",
+    "family": "story",
+    "topic": "teamwork",
+    "text": "At a school laboratory, a unexpected test result caused a small commotion. A visitor made room for someone new, and together the neighbors found a way forward. They solved it without blaming anyone.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-048",
+    "family": "story",
+    "topic": "kindness",
+    "text": "At a town museum, a misfiled record caused a small commotion. A visitor worked patiently through the problem, and together the neighbors found a way forward. Careful listening mattered more than a quick answer.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-049",
+    "family": "story",
+    "topic": "curiosity",
+    "text": "At an evening concert, a snapped guitar string caused a small commotion. A visitor stopped to ask a thoughtful question, and together the neighbors found a way forward. The discovery was worth more than the original plan.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-story-050",
+    "family": "story",
+    "topic": "learning",
+    "text": "At a winter shelter, a unlit heater caused a small commotion. A visitor offered to learn from an earlier mistake, and together the neighbors found a way forward. What looked like a setback became a pleasant surprise.",
+    "source": "BestBuddy original microfiction"
+  },
+  {
+    "id": "v175-anecdote-001",
+    "family": "anecdote",
+    "topic": "work",
+    "text": "In an imaginary neighborhood, a teacher paused during a difficult job and asked, “How do we know it is right?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-002",
+    "family": "anecdote",
+    "topic": "curiosity",
+    "text": "In an imaginary neighborhood, a baker paused during a difficult job and asked, “Who might be left out?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-003",
+    "family": "anecdote",
+    "topic": "humor",
+    "text": "In an imaginary neighborhood, a gardener paused during a difficult job and asked, “What is the easiest next step?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-004",
+    "family": "anecdote",
+    "topic": "kindness",
+    "text": "In an imaginary neighborhood, a carpenter paused during a difficult job and asked, “Could we try a smaller version?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-005",
+    "family": "anecdote",
+    "topic": "learning",
+    "text": "In an imaginary neighborhood, a librarian paused during a difficult job and asked, “What did the first attempt teach us?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-006",
+    "family": "anecdote",
+    "topic": "work",
+    "text": "In an imaginary neighborhood, a bus driver paused during a difficult job and asked, “Can we explain this to a child?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-007",
+    "family": "anecdote",
+    "topic": "curiosity",
+    "text": "In an imaginary neighborhood, a musician paused during a difficult job and asked, “Does the rule work for everyone?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-008",
+    "family": "anecdote",
+    "topic": "humor",
+    "text": "In an imaginary neighborhood, a engineer paused during a difficult job and asked, “Why not ask the people who use it?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-009",
+    "family": "anecdote",
+    "topic": "kindness",
+    "text": "In an imaginary neighborhood, a doctor paused during a difficult job and asked, “Can we measure the difference?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-010",
+    "family": "anecdote",
+    "topic": "learning",
+    "text": "In an imaginary neighborhood, a photographer paused during a difficult job and asked, “What might we be assuming?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-011",
+    "family": "anecdote",
+    "topic": "work",
+    "text": "In an imaginary neighborhood, a student paused during a difficult job and asked, “How do we know it is right?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-012",
+    "family": "anecdote",
+    "topic": "curiosity",
+    "text": "In an imaginary neighborhood, a tailor paused during a difficult job and asked, “Who might be left out?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-013",
+    "family": "anecdote",
+    "topic": "humor",
+    "text": "In an imaginary neighborhood, a shopkeeper paused during a difficult job and asked, “What is the easiest next step?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-014",
+    "family": "anecdote",
+    "topic": "kindness",
+    "text": "In an imaginary neighborhood, a nurse paused during a difficult job and asked, “Could we try a smaller version?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-015",
+    "family": "anecdote",
+    "topic": "learning",
+    "text": "In an imaginary neighborhood, a mechanic paused during a difficult job and asked, “What did the first attempt teach us?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-016",
+    "family": "anecdote",
+    "topic": "work",
+    "text": "In an imaginary neighborhood, a farmer paused during a difficult job and asked, “Can we explain this to a child?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-017",
+    "family": "anecdote",
+    "topic": "curiosity",
+    "text": "In an imaginary neighborhood, a astronomer paused during a difficult job and asked, “Does the rule work for everyone?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-018",
+    "family": "anecdote",
+    "topic": "humor",
+    "text": "In an imaginary neighborhood, a chef paused during a difficult job and asked, “Why not ask the people who use it?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-019",
+    "family": "anecdote",
+    "topic": "kindness",
+    "text": "In an imaginary neighborhood, a artist paused during a difficult job and asked, “Can we measure the difference?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-020",
+    "family": "anecdote",
+    "topic": "learning",
+    "text": "In an imaginary neighborhood, a coach paused during a difficult job and asked, “What might we be assuming?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-021",
+    "family": "anecdote",
+    "topic": "work",
+    "text": "In an imaginary neighborhood, a journalist paused during a difficult job and asked, “How do we know it is right?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-022",
+    "family": "anecdote",
+    "topic": "curiosity",
+    "text": "In an imaginary neighborhood, a potter paused during a difficult job and asked, “Who might be left out?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-023",
+    "family": "anecdote",
+    "topic": "humor",
+    "text": "In an imaginary neighborhood, a barber paused during a difficult job and asked, “What is the easiest next step?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-024",
+    "family": "anecdote",
+    "topic": "kindness",
+    "text": "In an imaginary neighborhood, a translator paused during a difficult job and asked, “Could we try a smaller version?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-025",
+    "family": "anecdote",
+    "topic": "learning",
+    "text": "In an imaginary neighborhood, a volunteer paused during a difficult job and asked, “What did the first attempt teach us?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-026",
+    "family": "anecdote",
+    "topic": "work",
+    "text": "In an imaginary neighborhood, a bookbinder paused during a difficult job and asked, “Can we explain this to a child?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-027",
+    "family": "anecdote",
+    "topic": "curiosity",
+    "text": "In an imaginary neighborhood, a pilot paused during a difficult job and asked, “Does the rule work for everyone?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-028",
+    "family": "anecdote",
+    "topic": "humor",
+    "text": "In an imaginary neighborhood, a scientist paused during a difficult job and asked, “Why not ask the people who use it?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-029",
+    "family": "anecdote",
+    "topic": "kindness",
+    "text": "In an imaginary neighborhood, a poet paused during a difficult job and asked, “Can we measure the difference?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-030",
+    "family": "anecdote",
+    "topic": "learning",
+    "text": "In an imaginary neighborhood, a guide paused during a difficult job and asked, “What might we be assuming?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-031",
+    "family": "anecdote",
+    "topic": "work",
+    "text": "In an imaginary neighborhood, a printer paused during a difficult job and asked, “How do we know it is right?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-032",
+    "family": "anecdote",
+    "topic": "curiosity",
+    "text": "In an imaginary neighborhood, a singer paused during a difficult job and asked, “Who might be left out?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-033",
+    "family": "anecdote",
+    "topic": "humor",
+    "text": "In an imaginary neighborhood, a postmaster paused during a difficult job and asked, “What is the easiest next step?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-034",
+    "family": "anecdote",
+    "topic": "kindness",
+    "text": "In an imaginary neighborhood, a clockmaker paused during a difficult job and asked, “Could we try a smaller version?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-035",
+    "family": "anecdote",
+    "topic": "learning",
+    "text": "In an imaginary neighborhood, a weaver paused during a difficult job and asked, “What did the first attempt teach us?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-036",
+    "family": "anecdote",
+    "topic": "work",
+    "text": "In an imaginary neighborhood, a pilot-in-training paused during a difficult job and asked, “Can we explain this to a child?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-037",
+    "family": "anecdote",
+    "topic": "curiosity",
+    "text": "In an imaginary neighborhood, a beekeeper paused during a difficult job and asked, “Does the rule work for everyone?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-038",
+    "family": "anecdote",
+    "topic": "humor",
+    "text": "In an imaginary neighborhood, a fisher paused during a difficult job and asked, “Why not ask the people who use it?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-039",
+    "family": "anecdote",
+    "topic": "kindness",
+    "text": "In an imaginary neighborhood, a architect paused during a difficult job and asked, “Can we measure the difference?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-040",
+    "family": "anecdote",
+    "topic": "learning",
+    "text": "In an imaginary neighborhood, a electrician paused during a difficult job and asked, “What might we be assuming?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-041",
+    "family": "anecdote",
+    "topic": "work",
+    "text": "In an imaginary neighborhood, a accountant paused during a difficult job and asked, “How do we know it is right?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-042",
+    "family": "anecdote",
+    "topic": "curiosity",
+    "text": "In an imaginary neighborhood, a swimmer paused during a difficult job and asked, “Who might be left out?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-043",
+    "family": "anecdote",
+    "topic": "humor",
+    "text": "In an imaginary neighborhood, a historian paused during a difficult job and asked, “What is the easiest next step?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-044",
+    "family": "anecdote",
+    "topic": "kindness",
+    "text": "In an imaginary neighborhood, a botanist paused during a difficult job and asked, “Could we try a smaller version?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-045",
+    "family": "anecdote",
+    "topic": "learning",
+    "text": "In an imaginary neighborhood, a comedian paused during a difficult job and asked, “What did the first attempt teach us?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-046",
+    "family": "anecdote",
+    "topic": "work",
+    "text": "In an imaginary neighborhood, a designer paused during a difficult job and asked, “Can we explain this to a child?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-047",
+    "family": "anecdote",
+    "topic": "curiosity",
+    "text": "In an imaginary neighborhood, a storyteller paused during a difficult job and asked, “Does the rule work for everyone?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-048",
+    "family": "anecdote",
+    "topic": "humor",
+    "text": "In an imaginary neighborhood, a mathematician paused during a difficult job and asked, “Why not ask the people who use it?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-049",
+    "family": "anecdote",
+    "topic": "kindness",
+    "text": "In an imaginary neighborhood, a repair technician paused during a difficult job and asked, “Can we measure the difference?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-anecdote-050",
+    "family": "anecdote",
+    "topic": "learning",
+    "text": "In an imaginary neighborhood, a street vendor paused during a difficult job and asked, “What might we be assuming?” Everyone expected a quick fix, but the discussion uncovered a better way to help each other. The story is a reminder that a useful question can be a practical tool.",
+    "source": "BestBuddy original illustrative anecdote (fiction)"
+  },
+  {
+    "id": "v175-science-001",
+    "family": "fact",
+    "topic": "science",
+    "text": "Light travels faster than sound in air.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-002",
+    "family": "fact",
+    "topic": "science",
+    "text": "Earth takes about one year to orbit the Sun.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-003",
+    "family": "fact",
+    "topic": "science",
+    "text": "The Moon reflects sunlight; it does not produce visible light of its own.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-004",
+    "family": "fact",
+    "topic": "science",
+    "text": "Water consists of hydrogen and oxygen atoms.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-005",
+    "family": "fact",
+    "topic": "science",
+    "text": "Liquid water expands when it freezes under ordinary conditions.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-006",
+    "family": "fact",
+    "topic": "science",
+    "text": "The atmosphere is mostly nitrogen and oxygen.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-007",
+    "family": "fact",
+    "topic": "science",
+    "text": "A magnet has a north pole and a south pole.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-008",
+    "family": "fact",
+    "topic": "science",
+    "text": "Sound needs a medium such as air, water, or solid material to travel.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-009",
+    "family": "fact",
+    "topic": "science",
+    "text": "In a vacuum, sound cannot propagate.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-010",
+    "family": "fact",
+    "topic": "science",
+    "text": "A rainbow forms when light is refracted and reflected by water droplets.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-011",
+    "family": "fact",
+    "topic": "science",
+    "text": "Chlorophyll helps plants capture light energy for photosynthesis.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-012",
+    "family": "fact",
+    "topic": "science",
+    "text": "Plants take carbon dioxide from air during photosynthesis.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-013",
+    "family": "fact",
+    "topic": "science",
+    "text": "An adult human skeleton typically contains 206 bones.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-014",
+    "family": "fact",
+    "topic": "science",
+    "text": "Red blood cells carry oxygen using hemoglobin.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-015",
+    "family": "fact",
+    "topic": "science",
+    "text": "The heart pumps blood around the body.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-016",
+    "family": "fact",
+    "topic": "science",
+    "text": "Nerve cells transmit signals electrically and chemically.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-017",
+    "family": "fact",
+    "topic": "science",
+    "text": "DNA carries hereditary instructions in living organisms.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-018",
+    "family": "fact",
+    "topic": "science",
+    "text": "A microscope makes small objects easier to observe.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-019",
+    "family": "fact",
+    "topic": "science",
+    "text": "A telescope collects light to observe distant objects.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-020",
+    "family": "fact",
+    "topic": "science",
+    "text": "Gravity gives objects weight near Earth.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-021",
+    "family": "fact",
+    "topic": "science",
+    "text": "The Sun is a star.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-022",
+    "family": "fact",
+    "topic": "science",
+    "text": "Most of the mass in the Solar System is in the Sun.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-023",
+    "family": "fact",
+    "topic": "science",
+    "text": "Venus has a very dense atmosphere rich in carbon dioxide.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-024",
+    "family": "fact",
+    "topic": "science",
+    "text": "Mars has polar ice caps.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-025",
+    "family": "fact",
+    "topic": "science",
+    "text": "Jupiter is the largest planet in our Solar System.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-026",
+    "family": "fact",
+    "topic": "science",
+    "text": "Saturn is famous for its prominent ring system.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-027",
+    "family": "fact",
+    "topic": "science",
+    "text": "Uranus rotates with an unusually large axial tilt.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-028",
+    "family": "fact",
+    "topic": "science",
+    "text": "Neptune is the most distant major planet from the Sun.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-029",
+    "family": "fact",
+    "topic": "science",
+    "text": "A comet can develop a tail when it approaches the Sun.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-030",
+    "family": "fact",
+    "topic": "science",
+    "text": "Earthquakes release energy as seismic waves.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-031",
+    "family": "fact",
+    "topic": "science",
+    "text": "Volcanic lava is molten rock reaching the surface.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-032",
+    "family": "fact",
+    "topic": "science",
+    "text": "Tectonic plates move slowly across Earth over geological time.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-033",
+    "family": "fact",
+    "topic": "science",
+    "text": "Ocean tides are influenced mainly by the Moon and also by the Sun.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-034",
+    "family": "fact",
+    "topic": "science",
+    "text": "The deepest ocean trenches occur near plate boundaries.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-035",
+    "family": "fact",
+    "topic": "science",
+    "text": "An atom has a nucleus containing protons and usually neutrons.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-036",
+    "family": "fact",
+    "topic": "science",
+    "text": "Electrons carry negative electric charge.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-037",
+    "family": "fact",
+    "topic": "science",
+    "text": "Protons carry positive electric charge.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-038",
+    "family": "fact",
+    "topic": "science",
+    "text": "Neutrons have no net electric charge.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-039",
+    "family": "fact",
+    "topic": "science",
+    "text": "A molecule is made from two or more bonded atoms.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-040",
+    "family": "fact",
+    "topic": "science",
+    "text": "A catalyst changes a reaction rate without being permanently consumed.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-041",
+    "family": "fact",
+    "topic": "science",
+    "text": "Acids and bases can be compared using the pH scale.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-042",
+    "family": "fact",
+    "topic": "science",
+    "text": "Evaporation changes a liquid into vapor.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-043",
+    "family": "fact",
+    "topic": "science",
+    "text": "Condensation changes vapor into a liquid.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-044",
+    "family": "fact",
+    "topic": "science",
+    "text": "Conduction transfers heat through direct interactions of particles.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-045",
+    "family": "fact",
+    "topic": "science",
+    "text": "Convection transfers heat through movement of fluids.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-046",
+    "family": "fact",
+    "topic": "science",
+    "text": "Radiation can transfer energy through empty space.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-047",
+    "family": "fact",
+    "topic": "science",
+    "text": "An electric current is a flow of electric charge.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-048",
+    "family": "fact",
+    "topic": "science",
+    "text": "Electrical resistance impedes electric current.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-049",
+    "family": "fact",
+    "topic": "science",
+    "text": "Solar panels convert sunlight into electrical energy.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-science-050",
+    "family": "fact",
+    "topic": "science",
+    "text": "Batteries store energy in chemical form and deliver electrical energy.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-001",
+    "family": "fact",
+    "topic": "technology",
+    "text": "A computer CPU executes instructions from programs.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-002",
+    "family": "fact",
+    "topic": "technology",
+    "text": "Random-access memory stores data used by running programs.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-003",
+    "family": "fact",
+    "topic": "technology",
+    "text": "Solid-state drives typically contain no moving mechanical parts.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-004",
+    "family": "fact",
+    "topic": "technology",
+    "text": "An operating system manages hardware resources and applications.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-005",
+    "family": "fact",
+    "topic": "technology",
+    "text": "A file system organizes stored files and directories.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-006",
+    "family": "fact",
+    "topic": "technology",
+    "text": "A backup is a separate copy of data meant to help recovery.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-007",
+    "family": "fact",
+    "topic": "technology",
+    "text": "Encryption transforms data so it requires a key to read.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-008",
+    "family": "fact",
+    "topic": "technology",
+    "text": "A password manager can generate and store distinct passwords.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-009",
+    "family": "fact",
+    "topic": "technology",
+    "text": "Two-factor authentication uses more than one authentication factor.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-010",
+    "family": "fact",
+    "topic": "technology",
+    "text": "A passkey uses public-key cryptography for authentication.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-011",
+    "family": "fact",
+    "topic": "technology",
+    "text": "A QR code encodes information in a two-dimensional pattern.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-012",
+    "family": "fact",
+    "topic": "technology",
+    "text": "Wi-Fi transmits network data over radio waves.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-013",
+    "family": "fact",
+    "topic": "technology",
+    "text": "Bluetooth supports short-range wireless connections.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-014",
+    "family": "fact",
+    "topic": "technology",
+    "text": "Ethernet commonly connects devices on wired local networks.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-015",
+    "family": "fact",
+    "topic": "technology",
+    "text": "A router forwards packets between computer networks.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-016",
+    "family": "fact",
+    "topic": "technology",
+    "text": "The internet connects many independent networks.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-017",
+    "family": "fact",
+    "topic": "technology",
+    "text": "The Web uses resources addressed by URLs.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-018",
+    "family": "fact",
+    "topic": "technology",
+    "text": "HTTP is a protocol for transferring web resources.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-019",
+    "family": "fact",
+    "topic": "technology",
+    "text": "HTTPS uses encryption to protect communications in transit.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-020",
+    "family": "fact",
+    "topic": "technology",
+    "text": "DNS translates domain names into network addresses.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-021",
+    "family": "fact",
+    "topic": "technology",
+    "text": "An IP address identifies a network interface in an IP network.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-022",
+    "family": "fact",
+    "topic": "technology",
+    "text": "A browser renders web documents and runs client-side code.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-023",
+    "family": "fact",
+    "topic": "technology",
+    "text": "A database organizes data for storage and retrieval.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-024",
+    "family": "fact",
+    "topic": "technology",
+    "text": "SQL is a language for querying relational databases.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-025",
+    "family": "fact",
+    "topic": "technology",
+    "text": "Version control records changes to source files.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-026",
+    "family": "fact",
+    "topic": "technology",
+    "text": "Git stores versioned snapshots as commits.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-027",
+    "family": "fact",
+    "topic": "technology",
+    "text": "A compiler translates source code into another representation.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-028",
+    "family": "fact",
+    "topic": "technology",
+    "text": "An interpreter executes program instructions using a runtime.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-029",
+    "family": "fact",
+    "topic": "technology",
+    "text": "A software test checks behavior against expectations.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-030",
+    "family": "fact",
+    "topic": "technology",
+    "text": "A regression test checks that an existing behavior still works.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-031",
+    "family": "fact",
+    "topic": "technology",
+    "text": "An API defines a way for software components to communicate.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-032",
+    "family": "fact",
+    "topic": "technology",
+    "text": "JSON represents structured data using text.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-033",
+    "family": "fact",
+    "topic": "technology",
+    "text": "Unicode assigns code points to characters from many languages.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-034",
+    "family": "fact",
+    "topic": "technology",
+    "text": "UTF-8 is a widely used encoding for Unicode text.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-035",
+    "family": "fact",
+    "topic": "technology",
+    "text": "An algorithm is a precise sequence of computational steps.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-036",
+    "family": "fact",
+    "topic": "technology",
+    "text": "A hash function maps data to a fixed-size value.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-037",
+    "family": "fact",
+    "topic": "technology",
+    "text": "A digital signature can help verify authenticity and integrity.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-038",
+    "family": "fact",
+    "topic": "technology",
+    "text": "Open-source licenses specify terms for using and sharing software.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-039",
+    "family": "fact",
+    "topic": "technology",
+    "text": "Containers package software and its runtime dependencies.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-040",
+    "family": "fact",
+    "topic": "technology",
+    "text": "Virtual machines emulate a computer environment for software.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-041",
+    "family": "fact",
+    "topic": "technology",
+    "text": "Cloud computing provides computing resources over a network.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-042",
+    "family": "fact",
+    "topic": "technology",
+    "text": "An edge device processes information close to where it is produced.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-043",
+    "family": "fact",
+    "topic": "technology",
+    "text": "Machine learning models learn patterns from training data.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-044",
+    "family": "fact",
+    "topic": "technology",
+    "text": "Neural networks combine multiple numerical processing layers.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-045",
+    "family": "fact",
+    "topic": "technology",
+    "text": "Speech recognition converts spoken audio into text.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-046",
+    "family": "fact",
+    "topic": "technology",
+    "text": "Text-to-speech synthesizes spoken audio from text.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-047",
+    "family": "fact",
+    "topic": "technology",
+    "text": "Voice activity detection finds speech-like regions in audio.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-048",
+    "family": "fact",
+    "topic": "technology",
+    "text": "A quantized model stores some numerical values at reduced precision.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-049",
+    "family": "fact",
+    "topic": "technology",
+    "text": "On-device inference can run without sending input data to a server.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-technology-050",
+    "family": "fact",
+    "topic": "technology",
+    "text": "A checksum helps detect accidental changes to a downloaded file.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-001",
+    "family": "fact",
+    "topic": "history",
+    "text": "The Great Pyramid of Giza was built in ancient Egypt.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-002",
+    "family": "fact",
+    "topic": "history",
+    "text": "The Indus Valley civilization included planned cities such as Mohenjo-daro.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-003",
+    "family": "fact",
+    "topic": "history",
+    "text": "The ancient city of Rome began in the Italian peninsula.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-004",
+    "family": "fact",
+    "topic": "history",
+    "text": "The Olympic Games were held in ancient Greece.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-005",
+    "family": "fact",
+    "topic": "history",
+    "text": "The Silk Roads connected trade networks across Eurasia.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-006",
+    "family": "fact",
+    "topic": "history",
+    "text": "The Roman Empire built roads and aqueducts across its territories.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-007",
+    "family": "fact",
+    "topic": "history",
+    "text": "The Maurya Empire ruled much of the Indian subcontinent.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-008",
+    "family": "fact",
+    "topic": "history",
+    "text": "Emperor Ashoka issued inscriptions on rocks and pillars.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-009",
+    "family": "fact",
+    "topic": "history",
+    "text": "Nalanda became a major center of learning in ancient India.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-010",
+    "family": "fact",
+    "topic": "history",
+    "text": "The Gupta period is associated with achievements in Indian mathematics and astronomy.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-011",
+    "family": "fact",
+    "topic": "history",
+    "text": "Paper-making techniques developed in ancient China.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-012",
+    "family": "fact",
+    "topic": "history",
+    "text": "The magnetic compass was used for navigation in China.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-013",
+    "family": "fact",
+    "topic": "history",
+    "text": "The Tang dynasty ruled China before the Song dynasty.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-014",
+    "family": "fact",
+    "topic": "history",
+    "text": "The Byzantine Empire had its capital at Constantinople.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-015",
+    "family": "fact",
+    "topic": "history",
+    "text": "The Abbasid era included important translation and scholarship centers.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-016",
+    "family": "fact",
+    "topic": "history",
+    "text": "The Khmer Empire built the temple complex of Angkor Wat.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-017",
+    "family": "fact",
+    "topic": "history",
+    "text": "The Mali Empire flourished in West Africa.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-018",
+    "family": "fact",
+    "topic": "history",
+    "text": "Mansa Musa is remembered as a ruler of the Mali Empire.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-019",
+    "family": "fact",
+    "topic": "history",
+    "text": "The city of Timbuktu was known as a center of scholarship and trade.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-020",
+    "family": "fact",
+    "topic": "history",
+    "text": "The Inca built an extensive road network in the Andes.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-021",
+    "family": "fact",
+    "topic": "history",
+    "text": "The Maya developed sophisticated calendars and writing systems.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-022",
+    "family": "fact",
+    "topic": "history",
+    "text": "The Aztec capital Tenochtitlan stood on the site of modern Mexico City.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-023",
+    "family": "fact",
+    "topic": "history",
+    "text": "The printing press with movable metal type spread through Europe in the fifteenth century.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-024",
+    "family": "fact",
+    "topic": "history",
+    "text": "The Renaissance involved renewed study of classical art and learning in Europe.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-025",
+    "family": "fact",
+    "topic": "history",
+    "text": "Vasco da Gama reached India by sea around the Cape of Good Hope.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-026",
+    "family": "fact",
+    "topic": "history",
+    "text": "The Mughal Empire was founded in the Indian subcontinent in the sixteenth century.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-027",
+    "family": "fact",
+    "topic": "history",
+    "text": "Akbar was a ruler of the Mughal Empire.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-028",
+    "family": "fact",
+    "topic": "history",
+    "text": "The Taj Mahal was commissioned by Shah Jahan.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-029",
+    "family": "fact",
+    "topic": "history",
+    "text": "Galileo used telescopes to study celestial objects.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-030",
+    "family": "fact",
+    "topic": "history",
+    "text": "Isaac Newton published Principia Mathematica in 1687.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-031",
+    "family": "fact",
+    "topic": "history",
+    "text": "The Industrial Revolution transformed manufacturing with machines and factories.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-032",
+    "family": "fact",
+    "topic": "history",
+    "text": "James Watt made important improvements to steam engines.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-033",
+    "family": "fact",
+    "topic": "history",
+    "text": "The American Declaration of Independence was adopted in 1776.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-034",
+    "family": "fact",
+    "topic": "history",
+    "text": "The French Revolution began in 1789.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-035",
+    "family": "fact",
+    "topic": "history",
+    "text": "Ada Lovelace wrote notes describing an algorithm for an early computing machine.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-036",
+    "family": "fact",
+    "topic": "history",
+    "text": "Charles Babbage proposed the Analytical Engine.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-037",
+    "family": "fact",
+    "topic": "history",
+    "text": "The first modern Olympic Games were held in Athens in 1896.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-038",
+    "family": "fact",
+    "topic": "history",
+    "text": "The Wright brothers made a powered flight in 1903.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-039",
+    "family": "fact",
+    "topic": "history",
+    "text": "Marie Curie conducted pioneering research into radioactivity.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-040",
+    "family": "fact",
+    "topic": "history",
+    "text": "Mahatma Gandhi led campaigns using nonviolent resistance.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-041",
+    "family": "fact",
+    "topic": "history",
+    "text": "India became independent in 1947.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-042",
+    "family": "fact",
+    "topic": "history",
+    "text": "The United Nations was established in 1945.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-043",
+    "family": "fact",
+    "topic": "history",
+    "text": "The first artificial satellite, Sputnik 1, launched in 1957.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-044",
+    "family": "fact",
+    "topic": "history",
+    "text": "Yuri Gagarin became the first human in space in 1961.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-045",
+    "family": "fact",
+    "topic": "history",
+    "text": "Apollo 11 landed humans on the Moon in 1969.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-046",
+    "family": "fact",
+    "topic": "history",
+    "text": "The first email experiments emerged on early computer networks.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-047",
+    "family": "fact",
+    "topic": "history",
+    "text": "The Berlin Wall fell in 1989.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-048",
+    "family": "fact",
+    "topic": "history",
+    "text": "Tim Berners-Lee proposed the World Wide Web in 1989.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-049",
+    "family": "fact",
+    "topic": "history",
+    "text": "The first website went online at CERN.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-history-050",
+    "family": "fact",
+    "topic": "history",
+    "text": "The Human Genome Project announced completion of its main sequencing goals in 2003.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-001",
+    "family": "fact",
+    "topic": "general",
+    "text": "An octopus has three hearts.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-002",
+    "family": "fact",
+    "topic": "general",
+    "text": "A group of flamingos is sometimes called a flamboyance.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-003",
+    "family": "fact",
+    "topic": "general",
+    "text": "Koalas have fingerprints that can resemble human fingerprints.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-004",
+    "family": "fact",
+    "topic": "general",
+    "text": "Butterflies taste using sensors on their feet.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-005",
+    "family": "fact",
+    "topic": "general",
+    "text": "A blue whale is the largest living animal.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-006",
+    "family": "fact",
+    "topic": "general",
+    "text": "A hummingbird can hover in place while flying.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-007",
+    "family": "fact",
+    "topic": "general",
+    "text": "Some frogs can survive freezing temperatures by making protective chemicals.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-008",
+    "family": "fact",
+    "topic": "general",
+    "text": "A giraffe has seven neck vertebrae, as most mammals do.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-009",
+    "family": "fact",
+    "topic": "general",
+    "text": "A shrimp has its heart in the head region.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-010",
+    "family": "fact",
+    "topic": "general",
+    "text": "A starfish has no centralized brain like a human brain.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-011",
+    "family": "fact",
+    "topic": "general",
+    "text": "Some sea turtles can navigate using Earth’s magnetic field.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-012",
+    "family": "fact",
+    "topic": "general",
+    "text": "Male seahorses carry developing young in a pouch.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-013",
+    "family": "fact",
+    "topic": "general",
+    "text": "Penguins are birds that cannot fly, but swim very well.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-014",
+    "family": "fact",
+    "topic": "general",
+    "text": "A chameleon can move its eyes independently.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-015",
+    "family": "fact",
+    "topic": "general",
+    "text": "A woodpecker uses specialized structures to withstand repeated pecking.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-016",
+    "family": "fact",
+    "topic": "general",
+    "text": "A sloth can grow algae in its fur.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-017",
+    "family": "fact",
+    "topic": "general",
+    "text": "Elephants communicate using low-frequency sounds.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-018",
+    "family": "fact",
+    "topic": "general",
+    "text": "Bees can communicate directions to food using a waggle dance.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-019",
+    "family": "fact",
+    "topic": "general",
+    "text": "Termites build mounds that can help regulate temperature.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-020",
+    "family": "fact",
+    "topic": "general",
+    "text": "Ants can carry loads heavier than their own bodies.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-021",
+    "family": "fact",
+    "topic": "general",
+    "text": "A snail has a radula, a tongue-like organ with tiny teeth.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-022",
+    "family": "fact",
+    "topic": "general",
+    "text": "Dolphins use sound to locate objects underwater.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-023",
+    "family": "fact",
+    "topic": "general",
+    "text": "A polar bear has dark skin beneath translucent fur.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-024",
+    "family": "fact",
+    "topic": "general",
+    "text": "Many geckos can climb smooth walls using specialized toe structures.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-025",
+    "family": "fact",
+    "topic": "general",
+    "text": "Crows can use tools to solve problems.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-026",
+    "family": "fact",
+    "topic": "general",
+    "text": "A narwhal’s tusk is an elongated tooth.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-027",
+    "family": "fact",
+    "topic": "general",
+    "text": "Coconut palms can grow along tropical coastlines.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-028",
+    "family": "fact",
+    "topic": "general",
+    "text": "Bamboo includes some of the fastest-growing plant species.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-029",
+    "family": "fact",
+    "topic": "general",
+    "text": "The scent of freshly cut grass comes from compounds released by damaged plant tissue.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-030",
+    "family": "fact",
+    "topic": "general",
+    "text": "Some orchids mimic insects to attract pollinators.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-031",
+    "family": "fact",
+    "topic": "general",
+    "text": "A Venus flytrap closes when its trigger hairs are stimulated in a particular pattern.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-032",
+    "family": "fact",
+    "topic": "general",
+    "text": "Sunflowers turn toward sunlight while young.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-033",
+    "family": "fact",
+    "topic": "general",
+    "text": "The giant sequoia is among the largest trees by volume.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-034",
+    "family": "fact",
+    "topic": "general",
+    "text": "The baobab tree can store large amounts of water in its trunk.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-035",
+    "family": "fact",
+    "topic": "general",
+    "text": "Dandelion seeds travel on wind using parachute-like structures.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-036",
+    "family": "fact",
+    "topic": "general",
+    "text": "Bananas are botanically classified as berries.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-037",
+    "family": "fact",
+    "topic": "general",
+    "text": "Strawberries are not botanical berries.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-038",
+    "family": "fact",
+    "topic": "general",
+    "text": "Peanuts are legumes rather than tree nuts.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-039",
+    "family": "fact",
+    "topic": "general",
+    "text": "Pineapples are made of many fused flowers and fruitlets.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-040",
+    "family": "fact",
+    "topic": "general",
+    "text": "Carrots were cultivated in several colors before orange varieties became common.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-041",
+    "family": "fact",
+    "topic": "general",
+    "text": "The Eiffel Tower expands slightly in hot weather.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-042",
+    "family": "fact",
+    "topic": "general",
+    "text": "Venus rotates more slowly than it orbits the Sun.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-043",
+    "family": "fact",
+    "topic": "general",
+    "text": "A day on Mars is slightly longer than a day on Earth.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-044",
+    "family": "fact",
+    "topic": "general",
+    "text": "Saturn is less dense on average than water.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-045",
+    "family": "fact",
+    "topic": "general",
+    "text": "The Moon has very weak atmospheric conditions compared with Earth.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-046",
+    "family": "fact",
+    "topic": "general",
+    "text": "Antarctica is classified as a desert because it receives very little precipitation.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-047",
+    "family": "fact",
+    "topic": "general",
+    "text": "The Sahara is not the largest desert on Earth; Antarctica is larger.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-048",
+    "family": "fact",
+    "topic": "general",
+    "text": "A cloud can contain a large mass of suspended water droplets.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-049",
+    "family": "fact",
+    "topic": "general",
+    "text": "Snowflakes commonly form six-fold symmetrical patterns.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-funfacts-050",
+    "family": "fact",
+    "topic": "general",
+    "text": "Lightning can heat surrounding air rapidly and produce thunder.",
+    "source": "BestBuddy offline reference collection",
+    "link": ""
+  },
+  {
+    "id": "v175-joke-001",
+    "family": "joke",
+    "topic": "wordplay",
+    "text": "Why did the smart speaker look worried? Because it forgot how to listen.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-002",
+    "family": "joke",
+    "topic": "technology",
+    "text": "Why did the calendar look worried? Because it wanted another date.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-003",
+    "family": "joke",
+    "topic": "everyday",
+    "text": "Why did the computer look worried? Because it had too many tabs open.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-004",
+    "family": "joke",
+    "topic": "music",
+    "text": "Why did the pencil look worried? Because it drew a blank.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-005",
+    "family": "joke",
+    "topic": "travel",
+    "text": "Why did the coffee mug look worried? Because it lost its handle on things.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-006",
+    "family": "joke",
+    "topic": "wordplay",
+    "text": "Why did the camera look worried? Because it could not picture it.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-007",
+    "family": "joke",
+    "topic": "technology",
+    "text": "Why did the calendar app look worried? Because it was running out of dates.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-008",
+    "family": "joke",
+    "topic": "everyday",
+    "text": "Why did the library book look worried? Because it was overdue for a rest.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-009",
+    "family": "joke",
+    "topic": "music",
+    "text": "Why did the umbrella look worried? Because it had a rainy outlook.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-010",
+    "family": "joke",
+    "topic": "travel",
+    "text": "Why did the suitcase look worried? Because it needed to unpack its feelings.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-011",
+    "family": "joke",
+    "topic": "wordplay",
+    "text": "Why did the garden hose look worried? Because it was feeling under pressure.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-012",
+    "family": "joke",
+    "topic": "technology",
+    "text": "Why did the bicycle look worried? Because it felt two-tired.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-013",
+    "family": "joke",
+    "topic": "everyday",
+    "text": "Why did the wall clock look worried? Because it needed a little time.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-014",
+    "family": "joke",
+    "topic": "music",
+    "text": "Why did the teacher look worried? Because it had a class act.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-015",
+    "family": "joke",
+    "topic": "travel",
+    "text": "Why did the chef look worried? Because it lost their thyme.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-016",
+    "family": "joke",
+    "topic": "wordplay",
+    "text": "Why did the baker look worried? Because it could not rise to the occasion.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-017",
+    "family": "joke",
+    "topic": "technology",
+    "text": "Why did the gardener look worried? Because it turned over a new leaf.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-018",
+    "family": "joke",
+    "topic": "everyday",
+    "text": "Why did the printer look worried? Because it felt pressed for time.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-019",
+    "family": "joke",
+    "topic": "music",
+    "text": "Why did the router look worried? Because it had connection issues.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-020",
+    "family": "joke",
+    "topic": "travel",
+    "text": "Why did the keyboard look worried? Because it needed more space.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-021",
+    "family": "joke",
+    "topic": "wordplay",
+    "text": "Why did the desk lamp look worried? Because it wanted a brighter future.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-022",
+    "family": "joke",
+    "topic": "technology",
+    "text": "Why did the newspaper look worried? Because it had breaking news.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-023",
+    "family": "joke",
+    "topic": "everyday",
+    "text": "Why did the refrigerator look worried? Because it kept its cool.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-024",
+    "family": "joke",
+    "topic": "music",
+    "text": "Why did the shopping list look worried? Because it made a point of being checked.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-025",
+    "family": "joke",
+    "topic": "travel",
+    "text": "Why did the broom look worried? Because it swept the competition.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-026",
+    "family": "joke",
+    "topic": "wordplay",
+    "text": "Why did the calculator look worried? Because it could not count on anyone.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-027",
+    "family": "joke",
+    "topic": "technology",
+    "text": "Why did the violin look worried? Because it was stringing everyone along.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-028",
+    "family": "joke",
+    "topic": "everyday",
+    "text": "Why did the stage curtain look worried? Because it refused to open up.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-029",
+    "family": "joke",
+    "topic": "music",
+    "text": "Why did the ladder look worried? Because it wanted to move up in life.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-030",
+    "family": "joke",
+    "topic": "travel",
+    "text": "Why did the elevator look worried? Because it was going through ups and downs.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-031",
+    "family": "joke",
+    "topic": "wordplay",
+    "text": "Why did the train look worried? Because it lost its track of thought.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-032",
+    "family": "joke",
+    "topic": "technology",
+    "text": "Why did the notebook look worried? Because it turned a new page.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-033",
+    "family": "joke",
+    "topic": "everyday",
+    "text": "Why did the painter look worried? Because it needed a change of perspective.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-034",
+    "family": "joke",
+    "topic": "music",
+    "text": "Why did the backpack look worried? Because it carried a lot of baggage.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-035",
+    "family": "joke",
+    "topic": "travel",
+    "text": "Why did the telescope look worried? Because it looked into the future.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-036",
+    "family": "joke",
+    "topic": "wordplay",
+    "text": "Why did the scientist look worried? Because it had a reaction to the news.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-037",
+    "family": "joke",
+    "topic": "technology",
+    "text": "Why did the museum look worried? Because it had a lot of history.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-038",
+    "family": "joke",
+    "topic": "everyday",
+    "text": "Why did the radio look worried? Because it was on the same wavelength.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-039",
+    "family": "joke",
+    "topic": "music",
+    "text": "Why did the river look worried? Because it wanted to go with the flow.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-040",
+    "family": "joke",
+    "topic": "travel",
+    "text": "Why did the mountain look worried? Because it looked down on the valley.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-041",
+    "family": "joke",
+    "topic": "wordplay",
+    "text": "Why did the ocean look worried? Because it was feeling a little wavey.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-042",
+    "family": "joke",
+    "topic": "technology",
+    "text": "Why did the camera lens look worried? Because it lost its focus.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-043",
+    "family": "joke",
+    "topic": "everyday",
+    "text": "Why did the airplane look worried? Because it needed to clear the air.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-044",
+    "family": "joke",
+    "topic": "music",
+    "text": "Why did the gardener’s gloves look worried? Because it were hands-on.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-045",
+    "family": "joke",
+    "topic": "travel",
+    "text": "Why did the tablet look worried? Because it had too many apps to handle.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-046",
+    "family": "joke",
+    "topic": "wordplay",
+    "text": "Why did the paintbrush look worried? Because it was making broad strokes.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-047",
+    "family": "joke",
+    "topic": "technology",
+    "text": "Why did the violin case look worried? Because it kept things under wraps.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-048",
+    "family": "joke",
+    "topic": "everyday",
+    "text": "Why did the water bottle look worried? Because it was half full of ideas.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-049",
+    "family": "joke",
+    "topic": "music",
+    "text": "Why did the hat look worried? Because it tipped its cap to a friend.",
+    "source": "BestBuddy original light humor"
+  },
+  {
+    "id": "v175-joke-050",
+    "family": "joke",
+    "topic": "travel",
+    "text": "Why did the park bench look worried? Because it needed some support.",
+    "source": "BestBuddy original light humor"
+  }
+]

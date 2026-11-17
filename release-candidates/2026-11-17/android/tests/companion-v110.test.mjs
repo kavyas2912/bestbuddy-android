@@ -1,0 +1,10 @@
+import {createOfflineCompanion} from '../ui/src/offline-companion.js';
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
+const read=p=>readFileSync(new URL(p,import.meta.url),'utf8');
+test('version synchronized',()=>{const c=JSON.parse(read('../src-tauri/tauri.conf.json'));const [major,minor,patch]=c.version.split('.').map(Number);assert.equal(c.bundle.android.versionCode,major*10000+minor*100+patch);assert.ok(read('../src-tauri/Cargo.toml').includes('version = "'+c.version+'"'));assert.ok(read('../ui/index.html').includes('BestBuddy Android V'+c.version));});
+test('four navigation sections retained',()=>{const html=read('../ui/index.html');for(const id of ['home','explore','media','settings'])assert.match(html,new RegExp('data-go="'+id+'"'))});
+test('quiet and conversation protections retained',()=>{const js=read('../ui/src/app.js');assert.match(js,/prefs.quietMode/);assert.match(js,/async function quiet/);const buddy=createOfflineCompanion();assert.match(buddy.respond('hello').reply,/Hello/);assert.equal(buddy.respond('weather in Boston'),null)});
+test('six named premium themes available',()=>{const js=read('../ui/src/app.js');for(const name of ['Emerald Blue + Gold','Dark Green + Gold','Golden Ivory','Ocean Blue','Sparkling Blue','Classic Charcoal + Gold'])assert.ok(js.includes(name),name)});
+test('JDK search and path normalization',()=>{const ps=read('../BUILD_ANDROID.ps1');assert.match(ps,/Join-Path \$env:ProgramFiles 'Java'/);assert.match(ps,/Normalize-Directory/);assert.match(ps,/javac 21/)});
