@@ -5,10 +5,6 @@ on:
     paths:
       - .github/workflows/ios-simulator.yml
       - release-candidates/2026-11-17/android/**
-  pull_request:
-    paths:
-      - .github/workflows/ios-simulator.yml
-      - release-candidates/2026-11-17/android/**
   workflow_dispatch:
 permissions:
   contents: read
@@ -42,8 +38,7 @@ jobs:
           rustup target add aarch64-apple-ios-sim x86_64-apple-ios
           if ! command -v xcodegen >/dev/null; then brew install xcodegen; fi
           if [ "$(uname -m)" = arm64 ]; then echo 'SIM_TARGET=aarch64-sim' >> "$GITHUB_ENV"; else echo 'SIM_TARGET=x86_64' >> "$GITHUB_ENV"; fi
-          npm install --prefix "$RUNNER_TEMP/buddy-cli" --no-audit --no-fund @tauri-apps/cli@2.12.4
-          echo "$RUNNER_TEMP/buddy-cli/node_modules/.bin" >> "$GITHUB_PATH"
+          npm ci --no-audit --no-fund
       - name: Test shared native core
         run: |
           set -euo pipefail
@@ -51,17 +46,16 @@ jobs:
       - name: Test shared companion frontend
         run: |
           set -euo pipefail
-          npm install --prefix "$RUNNER_TEMP/buddy-test" --no-audit --no-fund jsdom@26.1.0
-          BESTBUDDY_TEST_REQUIRE_FROM="$RUNNER_TEMP/buddy-test/package.json" node --experimental-vm-modules --test tests/*.test.mjs 2>&1 | tee "$IOS_EVIDENCE_DIR/frontend-tests.log"
+          npm test 2>&1 | tee "$IOS_EVIDENCE_DIR/frontend-tests.log"
       - name: Initialize the real iOS project
         run: |
           set -euo pipefail
-          tauri icon ui/assets/macaw/red-macaw-launcher.png --output src-tauri/icons
-          tauri ios init --ci --skip-targets-install 2>&1 | tee "$IOS_EVIDENCE_DIR/ios-init.log"
+          npm run tauri -- icon ui/assets/macaw/red-macaw-launcher.png --output src-tauri/icons
+          npm run tauri -- ios init --ci --skip-targets-install 2>&1 | tee "$IOS_EVIDENCE_DIR/ios-init.log"
       - name: Compile unsigned simulator app
         run: |
           set -euo pipefail
-          tauri ios build --debug --target "$SIM_TARGET" --ci -- CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO 2>&1 | tee "$IOS_EVIDENCE_DIR/ios-build.log"
+          npm run tauri -- ios build --debug --target "$SIM_TARGET" --ci -- CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO 2>&1 | tee "$IOS_EVIDENCE_DIR/ios-build.log"
       - name: Install and launch in iPhone simulator
         run: python3 tools/ios-simulator-smoke.py
       - name: Archive simulator app

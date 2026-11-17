@@ -396,5 +396,7 @@
   "vce-core/src/sources.rs": "99d2b062abf57451a44146cc12da2a4288ecc93794981a7c7b89959418b06f63",
   "vce-core/src/values.rs": "b85d1bc83cb542de0d284c06c98cff752f30fd6755b6a1316903a9149a38e48a",
   "vce-core/src/vault.rs": "f2484aabda94163992a6e091d40e99fab1232c488ed868af7a66b18ad030ac5e",
-  "vce-core/src/voice.rs": "1432b884fb47b2f41f09b3ac00e7a8fa576dff533c21b84024301a693ed86599"
+  "vce-core/src/voice.rs": "1432b884fb47b2f41f09b3ac00e7a8fa576dff533c21b84024301a693ed86599",
+  "package.json": "31299cda2a1136c5a8676405382df24114fb3b835306d91d3a65b654010c78c1",
+  "package-lock.json": "75de6a6ba58e2551f7eaa9134885cc1f10b1f592c819d76a44acf2fc0087a205"
 }
