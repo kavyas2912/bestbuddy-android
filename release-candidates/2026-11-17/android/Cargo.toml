@@ -1,0 +1,8 @@
+# Cargo.toml
+[workspace]
+members = ["vce-core", "src-tauri"]
+resolver = "2"
+
+# Keep rebuildable debug symbols out of the distributable Android library.
+[profile.dev.package.vce-mobile]
+strip = "symbols"

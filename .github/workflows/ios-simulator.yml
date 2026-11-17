@@ -1,0 +1,84 @@
+name: BestBuddy iOS simulator
+on:
+  push:
+    branches: [release/news-location-20261114]
+    paths:
+      - .github/workflows/ios-simulator.yml
+      - release-candidates/2026-11-17/android/**
+  pull_request:
+    paths:
+      - .github/workflows/ios-simulator.yml
+      - release-candidates/2026-11-17/android/**
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: ios-simulator-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  ios-simulator:
+    runs-on: macos-15
+    timeout-minutes: 50
+    defaults:
+      run:
+        shell: bash
+        working-directory: release-candidates/2026-11-17/android
+    env:
+      CARGO_BUILD_JOBS: 3
+      CARGO_TARGET_DIR: ${{ github.workspace }}/ios-target
+      IOS_EVIDENCE_DIR: ${{ github.workspace }}/ios-evidence
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
+        with:
+          node-version: '26'
+      - name: Prepare Apple simulator tools
+        run: |
+          set -euo pipefail
+          mkdir -p "$IOS_EVIDENCE_DIR"
+          xcodebuild -version | tee "$IOS_EVIDENCE_DIR/xcode-version.txt"
+          rustup toolchain install 1.98.1 --profile minimal
+          rustup default 1.98.1
+          rustup target add aarch64-apple-ios-sim x86_64-apple-ios
+          if ! command -v xcodegen >/dev/null; then brew install xcodegen; fi
+          if [ "$(uname -m)" = arm64 ]; then echo 'SIM_TARGET=aarch64-sim' >> "$GITHUB_ENV"; else echo 'SIM_TARGET=x86_64' >> "$GITHUB_ENV"; fi
+          npm install --prefix "$RUNNER_TEMP/buddy-cli" --no-audit --no-fund @tauri-apps/cli@2.12.4
+          echo "$RUNNER_TEMP/buddy-cli/node_modules/.bin" >> "$GITHUB_PATH"
+      - name: Test shared native core
+        run: |
+          set -euo pipefail
+          cargo test -p vce-core --locked 2>&1 | tee "$IOS_EVIDENCE_DIR/shared-core-tests.log"
+      - name: Test shared companion frontend
+        run: |
+          set -euo pipefail
+          npm install --prefix "$RUNNER_TEMP/buddy-test" --no-audit --no-fund jsdom@26.1.0
+          BESTBUDDY_TEST_REQUIRE_FROM="$RUNNER_TEMP/buddy-test/package.json" node --experimental-vm-modules --test tests/*.test.mjs 2>&1 | tee "$IOS_EVIDENCE_DIR/frontend-tests.log"
+      - name: Initialize the real iOS project
+        run: |
+          set -euo pipefail
+          tauri icon ui/assets/macaw/red-macaw-launcher.png --output src-tauri/icons
+          tauri ios init --ci --skip-targets-install 2>&1 | tee "$IOS_EVIDENCE_DIR/ios-init.log"
+      - name: Compile unsigned simulator app
+        run: |
+          set -euo pipefail
+          tauri ios build --debug --target "$SIM_TARGET" --ci -- CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO 2>&1 | tee "$IOS_EVIDENCE_DIR/ios-build.log"
+      - name: Install and launch in iPhone simulator
+        run: python3 tools/ios-simulator-smoke.py
+      - name: Archive simulator app
+        run: |
+          set -euo pipefail
+          app=$(cat "$IOS_EVIDENCE_DIR/simulator-app-path.txt")
+          ditto -c -k --sequesterRsrc --keepParent "$app" "$IOS_EVIDENCE_DIR/BestBuddy-iOS-simulator.zip"
+      - name: Describe acceptance limits
+        if: always()
+        run: |
+          echo '### BestBuddy iOS simulator checks' >> "$GITHUB_STEP_SUMMARY"
+          echo 'Shared core/frontend tests and a real unsigned simulator build/launch are checked separately. See the retained logs and launch screenshot.' >> "$GITHUB_STEP_SUMMARY"
+          echo 'The existing native platform bridge is Android-only. This run does not certify iOS voice, local inference, safety, contacts or wake-word parity, and produces no signed iPhone IPA.' >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        if: always()
+        with:
+          name: bestbuddy-ios-simulator-${{ github.sha }}
+          path: ios-evidence/
+          retention-days: 7
+          if-no-files-found: error
